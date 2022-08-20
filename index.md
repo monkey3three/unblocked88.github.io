@@ -4,4 +4,8 @@
 <a href="/unblocked88.github.io/run3.html">  Run 3 </a>
 <br>
 <a href="/unblocked88.github.io/terraria.html">  Terraria </a>
+<br>
+<a href="/unblocked88.github.io/sandandwater.html">  Sand & Water Sim </a>
+<br>
+<a href="/unblocked88.github.io/slither.html">  Slither.io </a>
 
