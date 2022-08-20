@@ -7,5 +7,5 @@
 <br>
 <a href="/unblocked88.github.io/sandandwater.html">  Sand & Water Sim </a>
 <br>
-<a href="/unblocked88.github.io/slither.html">  Slither.io </a>
+<a href="/unblocked88.github.io/slither.html">  Slither.io </a> <p>Note that you can only play with other players on this exact site.</p>
 
