@@ -14,6 +14,8 @@
 <a href="/unblocked88.github.io/flappybird.html">  Flappy Bird </a>
 <br>
 <a href="/unblocked88.github.io/pacman.html">  Pacman </a>
+<br>
+<a href="/unblocked88.github.io/sonic.html">  Sonic </a>
 <section id="downloads">
 <br>          
           <a href="https://www.unblocked88.ml" class="btn btn-github"><span class="icon"></span>View original site that this is based off.</a>
