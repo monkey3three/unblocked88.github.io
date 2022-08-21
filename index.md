@@ -13,11 +13,60 @@
 <br>
 <a href="/unblocked88.github.io/flappybird.html">  Flappy Bird </a>
 <br>
-<a href="/unblocked88.github.io/pacman.html">  Pacman </a>
+<a href="/unblocked88.github.io/pacman2.html">  Pacman </a>
 <br>
 <a href="/unblocked88.github.io/sonic.html">  Sonic </a>
+<br>
+<a href="/unblocked88.github.io/angrybirds.html">  Angrybirds </a>
+<br>
+<a href="/unblocked88.github.io/angryturds.html">  Angryturds </a>
+<br>
+<a href="/unblocked88.github.io/blockescape.html">  Block Escape </a>
+<br>
+<a href="/unblocked88.github.io/buildingblocks.html">  BuildingBlocks </a>
+<br>
+<a href="/unblocked88.github.io/crossyfrog.html">  Crossy Frog </a>
+<br>
+<a href="/unblocked88.github.io/geodash.html">  Geometry Dash </a>
+<br>
+<a href="/unblocked88.github.io/jellyblocks.html">  Jelly Blocks </a>
+<br>
+<a href="/unblocked88.github.io/mario.html">  Mario </a>
+<br>
+<a href="/unblocked88.github.io/mariokart.html">  Mario Kart </a>
+<br>
+<a href="/unblocked88.github.io/matchcraft.html">  Matchcraft </a>
+<br>
+<a href="/unblocked88.github.io/mcmaze.html">  Minemaze </a>
+<br>
+<a href="/unblocked88.github.io/mineblock.html">  Mineblock </a>
+<br>
+<a href="/unblocked88.github.io/outrun.html">  Outrun Racing </a>
+<br>
+<a href="/unblocked88.github.io/outrun.html">  Pacman3D </a>
+<br>
+<a href="/unblocked88.github.io/pacmanfps.html">  PacmanShooter </a>
+<br>
+<a href="/unblocked88.github.io/pipemania.html">  PipeMania </a>
+<br>
+<a href="/unblocked88.github.io/pokemoncrush.html">  Pokemon Crush </a>
+<br>
+<a href="/unblocked88.github.io/racing.html">  Racing </a>
+<br>
+<a href="/unblocked88.github.io/snake3d.html">  Snake3D </a>
+<br>
+<a href="/unblocked88.github.io/sonicmario.html">  Sonic & Mario Bros. </a>
+<br>
+<a href="/unblocked88.github.io/spaceinvaders.html">  Space Invaders </a>
+<br>
+<a href="/unblocked88.github.io/tetris2.html">  Tetris </a>
+<br>
+<a href="/unblocked88.github.io/tictactoe.html">  Tic Tac Toe </a>
+<br>
+<a href="/unblocked88.github.io/tombraider.html">  Tomb Raider </a>
 <section id="downloads">
-<br>          
+<br>
+ Total games: 33
           <a href="https://www.unblocked88.ml" class="btn btn-github"><span class="icon"></span>View original site that this is based off.</a>
         </section>
         
