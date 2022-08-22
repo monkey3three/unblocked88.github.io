@@ -66,7 +66,12 @@
 <a href="/unblocked88.github.io/tombraider.html">  Tomb Raider </a>
 <section id="downloads">
 <br>
- Total games: 33
+<a href="/unblocked88.github.io/heli.html">  Helicopter Adventure </a>
+ <br>
+<a href="/unblocked88.github.io/fruitninja.html">  Fruit Ninja </a>
+ <br>
+<a href="/unblocked88.github.io/mariofps.html">  Mario Shooter </a>
+ Total games: 36
           <a href="https://www.unblocked88.ml" class="btn btn-github"><span class="icon"></span>View original site that this is based off.</a>
         </section>
         
