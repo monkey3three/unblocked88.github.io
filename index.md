@@ -71,8 +71,24 @@
 <a href="/unblocked88.github.io/fruitninja.html">  Fruit Ninja </a>
  <br>
 <a href="/unblocked88.github.io/mariofps.html">  Mario Shooter </a>
- Total games: 36
-          <a href="https://www.unblocked88.ml" class="btn btn-github"><span class="icon"></span>View original site that this is based off.</a>
-        </section>
+ <br>
+<a href="/unblocked88.github.io/geojump.html">  Geometry Jump </a>
+ <br>
+<a href="/unblocked88.github.io/jig1.html">  Anime Jigsaw </a>
+ <br>
+<a href="/unblocked88.github.io/jig2.html">  Anime Jigsaw 2 </a>
+ <br>
+<a href="/unblocked88.github.io/mctetris.html">  Minetris </a>
+ <br>
+<a href="/unblocked88.github.io/mk.html">  Minion Kart </a>
+ <br>
+<a href="/unblocked88.github.io/rick.html">  Rick Dangerous </a>
+ <br>
+<a href="/unblocked88.github.io/tp.html">  Tappy Planes </a>
+<br>
+ Total games: 43
+ <br>
+<a href="https://www.unblocked88.ml" class="btn btn-github"><span class="icon"></span>View original site that this is based off.</a>
+</section>
         
 
