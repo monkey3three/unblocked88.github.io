@@ -64,7 +64,6 @@
 <a href="/unblocked88.github.io/tictactoe.html">  Tic Tac Toe </a>
 <br>
 <a href="/unblocked88.github.io/tombraider.html">  Tomb Raider </a>
-<section id="downloads">
 <br>
 <a href="/unblocked88.github.io/heli.html">  Helicopter Adventure </a>
  <br>
