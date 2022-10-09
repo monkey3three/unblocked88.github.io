@@ -15,6 +15,8 @@
 <br>
 <a href="/unblocked88.github.io/3D Plane Game v2.html">  3D Plane Sim </a>
 <br>
+<a href="/unblocked88.github.io/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
+<br>
 <p>Other Games<p>
 <a href="/unblocked88.github.io/Minecraft 3D.html">  Minecraft 2 </a>
 <br>
