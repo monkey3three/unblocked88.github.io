@@ -10,7 +10,13 @@
 <br>
 <a href="/unblocked88.github.io/3D Star Wars 0.9.html">  Star Wars 3D </a>
 <br>
+<a href="/unblocked88.github.io/Minecraft V6.html">  Minecraft </a>
+<br>
+<a href="/unblocked88.github.io/3D Plane Game v2.html">  3D Plane Sim </a>
+<br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/Minecraft 3D.html">  Minecraft 2 </a>
+<br>
 <a href="/unblocked88.github.io/snake.html"> Snake </a>
 <br>
 <a href="/unblocked88.github.io/Doom Splatoon V5.html"> Doom Splatoon </a>
