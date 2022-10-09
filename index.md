@@ -107,7 +107,7 @@
  <br>
 <a href="/unblocked88.github.io/tp.html">  Tappy Planes </a>
 <br>
- Total games: 49
+ Total games: 52
  <br>
 <a href="https://www.unblocked88.ml" class="btn btn-github"><span class="icon"></span>View original site that this is based off.</a>
 </section>
