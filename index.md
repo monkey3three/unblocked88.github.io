@@ -22,6 +22,32 @@
 <a href="/unblocked88.github.io/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/adjustable-fireworks.html">  Fireworks Sim
+<br>
+<a href="/unblocked88.github.io/avoid-the-bikes.html">  Avoid the bikes! </a>
+<br>
+<a href="/unblocked88.github.io/ant_colony.html">  Ant Colony Sim </a>
+<br>
+<a href="/unblocked88.github.io/fall_game.html">  Fall </a>
+<br>
+<a href="/unblocked88.github.io/hangman.html">  Hangman </a>
+<br>
+<a href="/unblocked88.github.io/ping-pong.html">  Ping Pong </a>
+<br>
+<a href="/unblocked88.github.io/platform.html">  Platform </a>
+<br>
+<a href="/unblocked88.github.io/randomPassword.html">  Password Generator </a>
+<br>
+<a href="/unblocked88.github.io/strange_insults.html">  Insult Generator </a>
+<br>
+<a href="/unblocked88.github.io/tic-tac-toe.html">  Tic-Tac-Toe </a>
+<br>
+<a href="/unblocked88.github.io/tiles.html">  Tiles </a>
+<br>
+<a href="/unblocked88.github.io/webmine.html">  Minesweeper </a>
+<br>
+<a href="/unblocked88.github.io/whack-a-mole.html">  Whack-A-Mole </a>
+<br>
 <a href="/unblocked88.github.io/3D Plane sim v1.html">  Plane Simulator 1 </a>
 <br>
 <a href="/unblocked88.github.io/3d Plane Sim.html">  Plane Simulator 2 </a>
@@ -130,7 +156,7 @@
  <br>
 <a href="/unblocked88.github.io/tp.html">  Tappy Planes </a>
 <br>
- Total games: 62
+ Total games: 75
  <br>
 <a href="https://www.unblocked88.ml" class="btn btn-github"><span class="icon"></span>View original site that this is based off.</a>
 </section>
