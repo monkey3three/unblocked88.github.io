@@ -18,6 +18,18 @@
 <a href="/unblocked88.github.io/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/Snowboard Physics Test v0.html">  Snowboard.io </a>
+<br>
+<a href="/unblocked88.github.io/Rainbow Rocket v0.html">  Rainbow Rocket </a>
+<br>
+<a href="/unblocked88.github.io/Geometry Dash v1.html">  Geometry Dash </a>
+<br>
+<a href="/unblocked88.github.io/Top Down 3D City Experiment v1.html">  Top Down Driving </a>
+<br>
+<a href="/unblocked88.github.io/Turrican II.html">  Turrican II  </a>
+<br>
+<a href="/unblocked88.github.io/Paint Extended Starter Project.html">  Paint </a>
+<br>
 <a href="/unblocked88.github.io/Minecraft 3D.html">  Minecraft 2 </a>
 <br>
 <a href="/unblocked88.github.io/snake.html"> Snake </a>
@@ -110,7 +122,7 @@
  <br>
 <a href="/unblocked88.github.io/tp.html">  Tappy Planes </a>
 <br>
- Total games: 52
+ Total games: 58
  <br>
 <a href="https://www.unblocked88.ml" class="btn btn-github"><span class="icon"></span>View original site that this is based off.</a>
 </section>
