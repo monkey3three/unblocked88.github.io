@@ -7,9 +7,13 @@
 <br>
 <a href="/unblocked88.github.io/surf.html">  CSGO Surf </a>
 <br>
+<a href="/unblocked88.github.io/Chase HQ.html">  Chase HQ </a>
+<br>
 <a href="/unblocked88.github.io/shockwave2-overhaul-exp2f.html">  Shockwave 2 Engine </a>
 <br>
 <a href="/unblocked88.github.io/3D Star Wars 0.9.html">  Star Wars 3D </a>
+<br>
+<a href="/unblocked88.github.io/wolf-i.html">  Wolfenstein 3D </a>
 <br>
 <a href="/unblocked88.github.io/Minecraft V6.html">  Minecraft </a>
 <br>
@@ -18,6 +22,10 @@
 <a href="/unblocked88.github.io/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/3D Plane sim v1.html">  Plane Simulator 1 </a>
+<br>
+<a href="/unblocked88.github.io/3d Plane Sim.html">  Plane Simulator 2 </a>
+<br>
 <a href="/unblocked88.github.io/Snowboard Physics Test v0.html">  Snowboard.io </a>
 <br>
 <a href="/unblocked88.github.io/Rainbow Rocket v0.html">  Rainbow Rocket </a>
@@ -122,7 +130,7 @@
  <br>
 <a href="/unblocked88.github.io/tp.html">  Tappy Planes </a>
 <br>
- Total games: 58
+ Total games: 62
  <br>
 <a href="https://www.unblocked88.ml" class="btn btn-github"><span class="icon"></span>View original site that this is based off.</a>
 </section>
