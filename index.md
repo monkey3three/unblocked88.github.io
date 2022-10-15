@@ -5,6 +5,8 @@
 <p>Featured:<p>
 <a href="/unblocked88.github.io/run3.html">  Run 3 </a>
 <br>
+<a href="/unblocked88.github.io/geounbroken.html">  Geometry Dash Hard Mode </a>
+<br>
 <a href="/unblocked88.github.io/surf.html">  CSGO Surf </a>
 <br>
 <a href="/unblocked88.github.io/Chase HQ.html">  Chase HQ </a>
