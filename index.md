@@ -24,6 +24,10 @@
 <a href="/unblocked88.github.io/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/drifty car.html">  Drifty Car </a>
+<br>
+<a href="/unblocked88.github.io/Hideout 3D.html">  Hideout 3D </a>
+<br>
 <a href="/unblocked88.github.io/adjustable-fireworks.html">  Fireworks Sim
 <br>
 <a href="/unblocked88.github.io/avoid-the-bikes.html">  Avoid the bikes! </a>
@@ -158,7 +162,7 @@
  <br>
 <a href="/unblocked88.github.io/tp.html">  Tappy Planes </a>
 <br>
- Total games: 75
+ Total games: 78
  <br>
 <a href="https://www.unblocked88.ml" class="btn btn-github"><span class="icon"></span>View original site that this is based off.</a>
 </section>
