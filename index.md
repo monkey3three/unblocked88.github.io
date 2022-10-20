@@ -26,6 +26,8 @@
 <p>Other Games<p>
 <a href="/unblocked88.github.io/drifty car.html">  Drifty Car </a>
 <br>
+<a href="/unblocked88.github.io/PlayNote v0.html">  PlayNote </a>
+<br>
 <a href="/unblocked88.github.io/Hideout 3D.html">  Hideout 3D </a>
 <br>
 <a href="/unblocked88.github.io/adjustable-fireworks.html">  Fireworks Sim
@@ -162,7 +164,7 @@
  <br>
 <a href="/unblocked88.github.io/tp.html">  Tappy Planes </a>
 <br>
- Total games: 78
+ Total games: 79
  <br>
 <a href="https://www.unblocked88.ml" class="btn btn-github"><span class="icon"></span>View original site that this is based off.</a>
 </section>
