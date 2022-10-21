@@ -3,166 +3,166 @@
 <p>Support me by helping to make this unblocked games website!
 <br>
 <p>Featured:<p>
-<a href="/unblocked88.github.io/run3.html">  Run 3 </a>
+<a href="/unblocked88.github.io/games/run3.html">  Run 3 </a>
 <br>
-<a href="/unblocked88.github.io/geounbroken.html">  Geometry Dash Hard Mode </a>
+<a href="/unblocked88.github.io/games/geounbroken.html">  Geometry Dash Hard Mode </a>
 <br>
-<a href="/unblocked88.github.io/surf.html">  CSGO Surf </a>
+<a href="/unblocked88.github.io/games/surf.html">  CSGO Surf </a>
 <br>
-<a href="/unblocked88.github.io/Chase HQ.html">  Chase HQ </a>
+<a href="/unblocked88.github.io/games/Chase HQ.html">  Chase HQ </a>
 <br>
-<a href="/unblocked88.github.io/shockwave2-overhaul-exp2f.html">  Shockwave 2 Engine </a>
+<a href="/unblocked88.github.io/games/shockwave2-overhaul-exp2f.html">  Shockwave 2 Engine </a>
 <br>
-<a href="/unblocked88.github.io/3D Star Wars 0.9.html">  Star Wars 3D </a>
+<a href="/unblocked88.github.io/games/3D Star Wars 0.9.html">  Star Wars 3D </a>
 <br>
-<a href="/unblocked88.github.io/wolf-i.html">  Wolfenstein 3D </a>
+<a href="/unblocked88.github.io/games/wolf-i.html">  Wolfenstein 3D </a>
 <br>
-<a href="/unblocked88.github.io/Minecraft V6.html">  Minecraft </a>
+<a href="/unblocked88.github.io/games/Minecraft V6.html">  Minecraft </a>
 <br>
-<a href="/unblocked88.github.io/3D Plane Game v2.html">  3D Plane Sim </a>
+<a href="/unblocked88.github.io/games/3D Plane Game v2.html">  3D Plane Sim </a>
 <br>
-<a href="/unblocked88.github.io/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
+<a href="/unblocked88.github.io/games/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
 <br>
 <p>Other Games<p>
-<a href="/unblocked88.github.io/drifty car.html">  Drifty Car </a>
+<a href="/unblocked88.github.io/games/drifty car.html">  Drifty Car </a>
 <br>
-<a href="/unblocked88.github.io/PlayNote v0.html">  PlayNote </a>
+<a href="/unblocked88.github.io/games/PlayNote v0.html">  PlayNote </a>
 <br>
-<a href="/unblocked88.github.io/Hideout 3D.html">  Hideout 3D </a>
+<a href="/unblocked88.github.io/games/Hideout 3D.html">  Hideout 3D </a>
 <br>
-<a href="/unblocked88.github.io/adjustable-fireworks.html">  Fireworks Sim
+<a href="/unblocked88.github.io/games/adjustable-fireworks.html">  Fireworks Sim
 <br>
-<a href="/unblocked88.github.io/avoid-the-bikes.html">  Avoid the bikes! </a>
+<a href="/unblocked88.github.io/games/avoid-the-bikes.html">  Avoid the bikes! </a>
 <br>
-<a href="/unblocked88.github.io/ant_colony.html">  Ant Colony Sim </a>
+<a href="/unblocked88.github.io/games/ant_colony.html">  Ant Colony Sim </a>
 <br>
-<a href="/unblocked88.github.io/fall_game.html">  Fall </a>
+<a href="/unblocked88.github.io/games/fall_game.html">  Fall </a>
 <br>
 <a href="/unblocked88.github.io/hangman.html">  Hangman </a>
 <br>
-<a href="/unblocked88.github.io/ping-pong.html">  Ping Pong </a>
+<a href="/unblocked88.github.io/games/ping-pong.html">  Ping Pong </a>
 <br>
-<a href="/unblocked88.github.io/platform.html">  Platform </a>
+<a href="/unblocked88.github.io/games/platform.html">  Platform </a>
 <br>
-<a href="/unblocked88.github.io/randomPassword.html">  Password Generator </a>
+<a href="/unblocked88.github.io/games/randomPassword.html">  Password Generator </a>
 <br>
-<a href="/unblocked88.github.io/strange_insults.html">  Insult Generator </a>
+<a href="/unblocked88.github.io/games/strange_insults.html">  Insult Generator </a>
 <br>
-<a href="/unblocked88.github.io/tic-tac-toe.html">  Tic-Tac-Toe </a>
+<a href="/unblocked88.github.io/games/tic-tac-toe.html">  Tic-Tac-Toe </a>
 <br>
-<a href="/unblocked88.github.io/tiles.html">  Tiles </a>
+<a href="/unblocked88.github.io/games/games/tiles.html">  Tiles </a>
 <br>
-<a href="/unblocked88.github.io/webmine.html">  Minesweeper </a>
+<a href="/unblocked88.github.io/games/webmine.html">  Minesweeper </a>
 <br>
-<a href="/unblocked88.github.io/whack-a-mole.html">  Whack-A-Mole </a>
+<a href="/unblocked88.github.io/games/whack-a-mole.html">  Whack-A-Mole </a>
 <br>
-<a href="/unblocked88.github.io/3D Plane sim v1.html">  Plane Simulator 1 </a>
+<a href="/unblocked88.github.io/games/3D Plane sim v1.html">  Plane Simulator 1 </a>
 <br>
-<a href="/unblocked88.github.io/3d Plane Sim.html">  Plane Simulator 2 </a>
+<a href="/unblocked88.github.io/games/3d Plane Sim.html">  Plane Simulator 2 </a>
 <br>
-<a href="/unblocked88.github.io/Snowboard Physics Test v0.html">  Snowboard.io </a>
+<a href="/unblocked88.github.io/games/Snowboard Physics Test v0.html">  Snowboard.io </a>
 <br>
-<a href="/unblocked88.github.io/Rainbow Rocket v0.html">  Rainbow Rocket </a>
+<a href="/unblocked88.github.io/games/Rainbow Rocket v0.html">  Rainbow Rocket </a>
 <br>
-<a href="/unblocked88.github.io/Geometry Dash v1.html">  Geometry Dash </a>
+<a href="/unblocked88.github.io/games/Geometry Dash v1.html">  Geometry Dash </a>
 <br>
-<a href="/unblocked88.github.io/Top Down 3D City Experiment v1.html">  Top Down Driving </a>
+<a href="/unblocked88.github.io/games/Top Down 3D City Experiment v1.html">  Top Down Driving </a>
 <br>
-<a href="/unblocked88.github.io/Turrican II.html">  Turrican II  </a>
+<a href="/unblocked88.github.io/games/Turrican II.html">  Turrican II  </a>
 <br>
-<a href="/unblocked88.github.io/Paint Extended Starter Project.html">  Paint </a>
+<a href="/unblocked88.github.io/games/Paint Extended Starter Project.html">  Paint </a>
 <br>
-<a href="/unblocked88.github.io/Minecraft 3D.html">  Minecraft 2 </a>
+<a href="/unblocked88.github.io/games/Minecraft 3D.html">  Minecraft 2 </a>
 <br>
-<a href="/unblocked88.github.io/snake.html"> Snake </a>
+<a href="/unblocked88.github.io/games/snake.html"> Snake </a>
 <br>
-<a href="/unblocked88.github.io/Doom Splatoon V5.html"> Doom Splatoon </a>
+<a href="/unblocked88.github.io/games/Doom Splatoon V5.html"> Doom Splatoon </a>
 <br>
-<a href="/unblocked88.github.io/Hill Climb Racing v1.html"> Hill Climb Racing </a>
+<a href="/unblocked88.github.io/games/Hill Climb Racing v1.html"> Hill Climb Racing </a>
 <br>
-<a href="/unblocked88.github.io/Ragdoll Physics v5.html"> Ragdoll Physics V5 </a>
+<a href="/unblocked88.github.io/games/Ragdoll Physics v5.html"> Ragdoll Physics V5 </a>
 <br>
-<a href="/unblocked88.github.io/terraria.html">  Terraria </a>
+<a href="/unblocked88.github.io/games/terraria.html">  Terraria </a>
 <br>
-<a href="/unblocked88.github.io/sandandwater.html">  Sand & Water Sim </a>
+<a href="/unblocked88.github.io/games/sandandwater.html">  Sand & Water Sim </a>
 <br>
-<a href="/unblocked88.github.io/slither.html">  Slither.io </a> Note that you can only play with other players on this exact site.
+<a href="/unblocked88.github.io/games/slither.html">  Slither.io </a> Note that you can only play with other players on this exact site.
 <br>
-<a href="/unblocked88.github.io/wordle.html">  React Wordle </a>
+<a href="/unblocked88.github.io/games/wordle.html">  React Wordle </a>
 <br>
-<a href="/unblocked88.github.io/flappybird.html">  Flappy Bird </a>
+<a href="/unblocked88.github.io/games/flappybird.html">  Flappy Bird </a>
 <br>
-<a href="/unblocked88.github.io/pacman2.html">  Pacman </a>
+<a href="/unblocked88.github.io/games/pacman2.html">  Pacman </a>
 <br>
-<a href="/unblocked88.github.io/sonic.html">  Sonic </a>
+<a href="/unblocked88.github.io/games/sonic.html">  Sonic </a>
 <br>
-<a href="/unblocked88.github.io/angrybirds.html">  Angrybirds </a>
+<a href="/unblocked88.github.io/games/angrybirds.html">  Angrybirds </a>
 <br>
-<a href="/unblocked88.github.io/angryturds.html">  Angryturds </a>
+<a href="/unblocked88.github.io/games/angryturds.html">  Angryturds </a>
 <br>
-<a href="/unblocked88.github.io/blockescape.html">  Block Escape </a>
+<a href="/unblocked88.github.io/games/blockescape.html">  Block Escape </a>
 <br>
-<a href="/unblocked88.github.io/buildingblocks.html">  BuildingBlocks </a>
+<a href="/unblocked88.github.io/games/buildingblocks.html">  BuildingBlocks </a>
 <br>
-<a href="/unblocked88.github.io/crossyfrog.html">  Crossy Frog </a>
+<a href="/unblocked88.github.io/games/crossyfrog.html">  Crossy Frog </a>
 <br>
-<a href="/unblocked88.github.io/geodash.html">  Geometry Dash </a>
+<a href="/unblocked88.github.io/games/geodash.html">  Geometry Dash </a>
 <br>
-<a href="/unblocked88.github.io/jellyblocks.html">  Jelly Blocks </a>
+<a href="/unblocked88.github.io/games/jellyblocks.html">  Jelly Blocks </a>
 <br>
-<a href="/unblocked88.github.io/mario.html">  Mario </a>
+<a href="/unblocked88.github.io/games/mario.html">  Mario </a>
 <br>
-<a href="/unblocked88.github.io/mariokart.html">  Mario Kart </a>
+<a href="/unblocked88.github.io/games/mariokart.html">  Mario Kart </a>
 <br>
-<a href="/unblocked88.github.io/matchcraft.html">  Matchcraft </a>
+<a href="/unblocked88.github.io/games/matchcraft.html">  Matchcraft </a>
 <br>
-<a href="/unblocked88.github.io/mcmaze.html">  Minemaze </a>
+<a href="/unblocked88.github.io/games/mcmaze.html">  Minemaze </a>
 <br>
-<a href="/unblocked88.github.io/mineblock.html">  Mineblock </a>
+<a href="/unblocked88.github.io/games/mineblock.html">  Mineblock </a>
 <br>
-<a href="/unblocked88.github.io/outrun.html">  Outrun Racing </a>
+<a href="/unblocked88.github.io/games/outrun.html">  Outrun Racing </a>
 <br>
-<a href="/unblocked88.github.io/outrun.html">  Pacman3D </a>
+<a href="/unblocked88.github.io/games/outrun.html">  Pacman3D </a>
 <br>
-<a href="/unblocked88.github.io/pacmanfps.html">  PacmanShooter </a>
+<a href="/unblocked88.github.io/games/pacmanfps.html">  PacmanShooter </a>
 <br>
-<a href="/unblocked88.github.io/pipemania.html">  PipeMania </a>
+<a href="/unblocked88.github.io/games/pipemania.html">  PipeMania </a>
 <br>
-<a href="/unblocked88.github.io/pokemoncrush.html">  Pokemon Crush </a>
+<a href="/unblocked88.github.io/games/pokemoncrush.html">  Pokemon Crush </a>
 <br>
-<a href="/unblocked88.github.io/racing.html">  Racing </a>
+<a href="/unblocked88.github.io/games/racing.html">  Racing </a>
 <br>
-<a href="/unblocked88.github.io/snake3d.html">  Snake3D </a>
+<a href="/unblocked88.github.io/games/snake3d.html">  Snake3D </a>
 <br>
-<a href="/unblocked88.github.io/sonicmario.html">  Sonic & Mario Bros. </a>
+<a href="/unblocked88.github.io/games/sonicmario.html">  Sonic & Mario Bros. </a>
 <br>
-<a href="/unblocked88.github.io/spaceinvaders.html">  Space Invaders </a>
+<a href="/unblocked88.github.io/games/spaceinvaders.html">  Space Invaders </a>
 <br>
-<a href="/unblocked88.github.io/tetris2.html">  Tetris </a>
+<a href="/unblocked88.github.io/games/tetris2.html">  Tetris </a>
 <br>
-<a href="/unblocked88.github.io/tictactoe.html">  Tic Tac Toe </a>
+<a href="/unblocked88.github.io/games/tictactoe.html">  Tic Tac Toe </a>
 <br>
-<a href="/unblocked88.github.io/tombraider.html">  Tomb Raider </a>
+<a href="/unblocked88.github.io/games/tombraider.html">  Tomb Raider </a>
 <br>
-<a href="/unblocked88.github.io/heli.html">  Helicopter Adventure </a>
+<a href="/unblocked88.github.io/games/heli.html">  Helicopter Adventure </a>
  <br>
-<a href="/unblocked88.github.io/fruitninja.html">  Fruit Ninja </a>
+<a href="/unblocked88.github.io/games/fruitninja.html">  Fruit Ninja </a>
  <br>
-<a href="/unblocked88.github.io/mariofps.html">  Mario Shooter </a>
+<a href="/unblocked88.github.io/games/mariofps.html">  Mario Shooter </a>
  <br>
-<a href="/unblocked88.github.io/geojump.html">  Geometry Jump </a>
+<a href="/unblocked88.github.io/games/geojump.html">  Geometry Jump </a>
  <br>
-<a href="/unblocked88.github.io/jig1.html">  Anime Jigsaw </a>
+<a href="/unblocked88.github.io/games/jig1.html">  Anime Jigsaw </a>
  <br>
-<a href="/unblocked88.github.io/jig2.html">  Anime Jigsaw 2 </a>
+<a href="/unblocked88.github.io/games/jig2.html">  Anime Jigsaw 2 </a>
  <br>
-<a href="/unblocked88.github.io/mctetris.html">  Minetris </a>
+<a href="/unblocked88.github.io/games/mctetris.html">  Minetris </a>
  <br>
-<a href="/unblocked88.github.io/mk.html">  Minion Kart </a>
+<a href="/unblocked88.github.io/games/mk.html">  Minion Kart </a>
  <br>
-<a href="/unblocked88.github.io/rick.html">  Rick Dangerous </a>
+<a href="/unblocked88.github.io/games/rick.html">  Rick Dangerous </a>
  <br>
-<a href="/unblocked88.github.io/tp.html">  Tappy Planes </a>
+<a href="/unblocked88.github.io/games/tp.html">  Tappy Planes </a>
 <br>
  Total games: 79
  <br>
