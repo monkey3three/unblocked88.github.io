@@ -166,6 +166,8 @@
 <br>
  Total games: 79
  <br>
+ Have fun!
+ <br>
 <a href="https://www.unblocked88.ml" class="btn btn-github"><span class="icon"></span>View original site that this is based off.</a>
 </section>
         
