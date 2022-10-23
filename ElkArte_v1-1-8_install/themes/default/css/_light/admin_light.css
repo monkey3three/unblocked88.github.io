@@ -1,0 +1,293 @@
+/* Common admin center classes.
+------------------------------------------------------- */
+
+.action_admin .generic_list_wrapper .information {
+	border-color: #CCCCCC;
+	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+#admin_main_section, .quick_tasks, #mod_main_section,
+#support_credits, #admin_newsletters,
+#core_features, #entry_form,
+#groupForm, #mailqueue_stats, #manage_maintenance,
+#new_group, #view_group, #admin_form_wrapper, .action_admin .generic_list_wrapper {
+	background: #EEEEEE;
+	border-color: #CCCCCC;
+	box-shadow: 0 -2px 2px rgba(0, 0, 0, 0.1);
+}
+
+#admin_content .content  {
+	background: #EFEFEF;
+	box-shadow: none;
+}
+
+.disabled {
+	color: #888888;
+}
+
+/* News and newsletters screen.
+---------------------------------------------*/
+#admin_newsletters .information {
+	border-color: #CCCCCC;
+	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+#advanced_panel_header {
+	background: #FEFEFE;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+	border-color: #CCCCCC;
+}
+
+#welcome {
+	border-color: #DDDDDD;
+}
+
+.search_results li {
+	border-bottom-color: #CCCCCC;
+}
+
+.search_results li a strong {
+	color: #686868;
+}
+
+#admin_main_section .content {
+	border-color: #CCCCCC;
+	border-top-color: #BBBBBB;
+	border-bottom-color: #DDDDDD;
+	background: #FEFEFE;
+	box-shadow: 0 2px 2px rgba(255, 255, 255, 0.5), 0 -1px 2px rgba(0, 0, 0, 0.1);
+}
+
+#live_news div.content dl {
+	color: #111111;
+}
+
+#ourAnnouncements dt {
+	border-top-color: #377828;
+}
+
+#ourAnnouncements dt a {
+	color: #377828;
+}
+
+#ourAnnouncements dd {
+	border-top-color: #DDDDDD;
+}
+
+.quick_tasks {
+	box-shadow: none;
+	background: #FEFEFE;
+}
+
+#quick_tasks li {
+	border-top-color: #FEFEFE;
+	border-bottom-color: #BBBBBB;
+}
+
+/* Styles for the package manager.
+------------------------------------------------- */
+#package_list li {
+	border-color: #A9CCD1;
+}
+
+#find_code, #replace_code {
+	background: #EEEEEE;
+	border-top-color: #999999;
+	border-bottom-color: #999999;
+}
+
+/* Styles for the D&D indicators
+------------------------------------------------- */
+#sort_email_fp td:nth-child(2):before,
+#custom_profile_fields td:nth-child(2):before,
+#message_icon_list td:nth-child(1):before,
+#manage_boards li .floatleft:before {
+	color: #AAAAAA;
+}
+
+/* Styles for the manage boards section.
+------------------------------------------------- */
+#manage_boards .recycle_board {
+	background: #D9EDF7;
+}
+
+#manage_boards ul li {
+	border-top-color: #cccccc;
+}
+
+#manage_boards span.modify_boards a {
+	background: #FEFEFE;
+	border-color: #AFAFAF;
+	box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+	color: #222222;
+}
+
+#manage_boards span.modify_boards a:hover {
+	background: #FEFEFE;
+	color: #444444;
+	box-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+}
+
+#manage_boards .post_group, #manage_boards .regular_members {
+	border-bottom-color: #000000;
+}
+
+/* Indeed ugly, but will allow 4 level deep board nesting stripping to work */
+#manage_boards li:nth-child(even),
+#manage_boards li:nth-child(even) > li:nth-child(odd),
+#manage_boards li:nth-child(even) > li:nth-child(odd) > li:nth-child(even),
+#manage_boards li:nth-child(even) > li:nth-child(odd) > li:nth-child(even) > li:nth-child(odd) {
+	background: #FAFAFA;
+}
+
+#manage_boards li:nth-child(odd),
+#manage_boards li:nth-child(odd) > li:nth-child(even),
+#manage_boards li:nth-child(odd) > li:nth-child(even) > li:nth-child(odd),
+#manage_boards li:nth-child(odd) > li:nth-child(even) > li:nth-child(odd) > li:nth-child(even) {
+	background: #FFFFFF;
+}
+
+/* Styles for the manage maintenance section.
+------------------------------------------------- */
+#manage_maintenance div.content {
+	background: none;
+	border-bottom-color: #CCCCCC;
+	box-shadow: 0 1px 0 #FEFEFE;
+}
+
+/* Styles for the manage membergroups.
+------------------------------------------------- */
+.select_category, .select_all_box {
+	border-top-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+}
+
+/* Styles for the manage permissions section.
+------------------------------------------------- */
+.perm_boards li {
+	border-color: #A9CCD1;
+}
+
+.perm_groups {
+	background-color: #FEFEFE;
+}
+
+/* Styles for the file permissions section.
+------------------------------------------------- */
+
+.perm_read {
+	background-color: #D1F7BF;
+}
+
+.perm_write {
+	background-color: #FFBBBB;
+}
+
+.perm_execute {
+	background-color: #FDD7AF;
+}
+
+.perm_custom {
+	background-color: #C2C6C0;
+}
+
+.perm_nochange {
+	background-color: #EEEEEE;
+}
+
+
+/* Styles for the moderation center.
+------------------------------------------------- */
+#modcenter {
+	background: none repeat scroll 0 0 #DEEDDA;
+	box-shadow: 1px 2px 3px #EEEEEE;
+}
+
+#modcenter .content, #modcenter .generic_list_wrapper {
+	border-color: #DDDDDD;
+	border-bottom-color: #CCCCCC;
+	background: #FEFEFE;
+}
+
+#mod_main_section .content {
+	border-color: #CCCCCC;
+	border-top-color: #BBBBBB;
+	border-bottom-color: #DDDDDD;
+	background: #FEFEFE;
+	box-shadow: 0 2px 2px rgba(255, 255, 255, 0.5), 0 -1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.moderation_notes li {
+	border-bottom-color: #CCCCCC;
+}
+
+/* Styles for the error log.
+------------------------------------------------- */
+
+#error_log {
+	border-top-color: #DDDDDD;
+}
+
+#error_log .error_where {
+	border-top-color: #DDDDDD;
+}
+
+#errorfile_table {
+	background-color: #FEFEFE;
+}
+
+#errorfile_table .current .linetext {
+	border-color: black;
+}
+
+/* Styles for the Report generation
+------------------------------------------------- */
+.report_results th {
+	border-left-color: #DDDDDD;
+	border-right-color: #DDDDDD;
+}
+
+/* alternate row colors on Modify Themes,Copy a template */
+.theme_options .content:nth-child(even), .theme_options li:nth-child(even) {
+	border-top-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+}
+
+.theme_options .content:nth-child(even), .theme_options li:nth-child(even) {
+	background: #FEFEFE;
+}
+
+.theme_options .content:nth-child(odd) {
+	background: #EEEEEE;
+}
+
+#css_preview_box {
+	border-color: black;
+}
+
+/* jQuery Dialog
+------------------------------------------------- */
+.ui-dialog {
+	border-color: #999999;
+	box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
+	background-color: #F4F4F4;
+}
+
+.ui-dialog .ui-dialog-titlebar {
+	background-color: #FAFAFA;
+}
+
+.ui-widget-overlay {
+	background-color: #000000;
+	opacity: 0.3;
+}
+
+/* This is the drag/drop placeholder, normally not visible */
+.ui-state-highlight {
+	background-color: #EEEEEE !important;
+	border-color: green !important;
+}
+
+.sortable_smiley {
+	border-bottom-color: #CCCCCC;
+}
