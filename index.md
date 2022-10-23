@@ -26,6 +26,8 @@
 <a href="/unblocked88.github.io/games/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/games/internetclicker.html">  Internet Clicker </a>
+<br>
 <a href="/unblocked88.github.io/games/brick-breaker.html">  Brick Breaker </a>
 <br>
 <a href="/unblocked88.github.io/games/stack.html">  Stack </a>
