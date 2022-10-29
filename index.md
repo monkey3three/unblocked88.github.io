@@ -2,6 +2,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Site%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 <p>Support me by helping to make this unblocked games website!
 <br>
+<p>Downloads<p>
+<a href="/unblocked88.github.io/downloads.html">  Downloads </a>
+<br>
 <p>Featured:<p>
 <a href="/unblocked88.github.io/games/cookieclicker-gh-pages/cookie.html">  Cookie Clicker </a>
 <br>
