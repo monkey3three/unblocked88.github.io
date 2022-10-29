@@ -29,6 +29,10 @@
 <a href="/unblocked88.github.io/games/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/games/Memory-Game/Memory-Game-master/Memory Game/index.html">  Memory Game </a>
+<br>
+<a href="/unblocked88.github.io/games/Classic-Arcade-Game-master/Classic-Arcade-Game-master/Classic Arcade Game/index.html">  Crossy Human </a>
+<br>
 <a href="/unblocked88.github.io/games/bloons td 4.html">  Bloons TD 4 </a>
 <br>
 <a href="/unblocked88.github.io/games/internetclicker.html">  Internet Clicker </a>
