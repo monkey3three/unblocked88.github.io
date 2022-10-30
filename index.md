@@ -29,6 +29,8 @@
 <a href="/unblocked88.github.io/games/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/games/tttjs/ttt.html">  Tic Tac Toe 2 </a>
+<br>
 <a href="/unblocked88.github.io/games/Memory-Game/Memory-Game-master/Memory Game/index.html">  Memory Game </a>
 <br>
 <a href="/unblocked88.github.io/games/Classic-Arcade-Game-master/Classic-Arcade-Game-master/Classic Arcade Game/index.html">  Crossy Human </a>
@@ -103,7 +105,9 @@
 <br>
 <a href="/unblocked88.github.io/games/sandandwater.html">  Sand & Water Sim </a>
 <br>
-<a href="/unblocked88.github.io/games/slither.html">  Slither.io </a> Note that you can only play with other players on this exact site.
+<a href="/unblocked88.github.io/games/slither.html">  Slither.io </a> Multipayer Doesn't Work
+<br>
+<p>All games below this writing won't work.<p>
 <br>
 <a href="/unblocked88.github.io/games/wordle.html">  React Wordle </a>
 <br>
@@ -181,7 +185,7 @@
  <br>
 <a href="/unblocked88.github.io/games/tp.html">  Tappy Planes </a>
 <br>
- Total games: 83
+ Total games: 84
  <br>
  Have fun!
  <br>
