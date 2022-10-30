@@ -29,7 +29,7 @@
 <a href="/unblocked88.github.io/games/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
 <br>
 <p>Other Games<p>
-<a href="/unblocked88.github.io/games/ttt-js/ttt.html">  Tic Tac Toe 2 </a>
+<a href="/unblocked88.github.io/games/tttjs/ttt.html">  Tic Tac Toe 2 </a>
 <br>
 <a href="/unblocked88.github.io/games/Memory-Game/Memory-Game-master/Memory Game/index.html">  Memory Game </a>
 <br>
