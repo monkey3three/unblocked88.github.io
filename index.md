@@ -8,6 +8,8 @@
 <p>Featured:<p>
 <a href="/unblocked88.github.io/games/cookieclicker-gh-pages/cookie.html">  Cookie Clicker </a>
 <br>
+<a href="/unblocked88.github.io/games/infinteovertake.html">  Infinite Overtake </a>
+<br>
 <a href="/unblocked88.github.io/games/run3.html">  Run 3 </a>
 <br>
 <a href="/unblocked88.github.io/games/geounbroken.html">  Geometry Dash Hard Mode </a>
