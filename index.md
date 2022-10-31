@@ -111,7 +111,7 @@
 <br>
 <a href="/unblocked88.github.io/games/sandandwater.html">  Sand & Water Sim </a>
 <br>
-<a href="/unblocked88.github.io/games/slither.html">  Slither.io </a> Multipayer Doesn't Work
+<a href="/unblocked88.github.io/games/slither.io v1.html">  Slither.io </a> Multipayer does work now, however your username is set to monkeytime3. I'm not sure if other people can play with people with the same username, but there's other people that hop on this game as well.
 <br>
 <p>All games below this writing won't work.<p>
 <br>
