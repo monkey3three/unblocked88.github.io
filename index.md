@@ -8,7 +8,7 @@
 <p>Featured:<p>
 <a href="/unblocked88.github.io/games/cookieclicker-gh-pages/cookie.html">  Cookie Clicker </a>
 <br>
-<a href="/unblocked88.github.io/games/infinteovertake.html">  Infinite Overtake </a>
+<a href="/unblocked88.github.io/games/Life.htm">  Conway's Game of Life </a>
 <br>
 <a href="/unblocked88.github.io/games/run3.html">  Run 3 </a>
 <br>
@@ -35,7 +35,7 @@
 <br>
 <a href="/unblocked88.github.io/games/dino/dinomaster/original/404.html">  Chrome Dinosaur Game </a>
 <br>
-<a href="/unblocked88.github.io/games/Ages of Conflict.html">  Ages of Conflict </a>
+<a href="/unblocked88.github.io/games/Hacker Typer.html">  Hacker Typer </a>
 <br>
 <a href="/unblocked88.github.io/games/Dont Drink and Drive sim 2018.html">  Don't Drink & Drive Simulator 2018 </a>
 <br>
