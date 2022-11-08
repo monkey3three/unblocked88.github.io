@@ -31,6 +31,8 @@
 <a href="/unblocked88.github.io/games/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/games/spacepress.html">  [Press Space] </a>
+<br>
 <a href="/unblocked88.github.io/games/territorial-io.html">  Territorial.io </a>
 <br>
 <a href="/unblocked88.github.io/games/dino/dinomaster/original/404.html">  Chrome Dinosaur Game </a>
@@ -195,11 +197,6 @@
  <br>
 <a href="/unblocked88.github.io/games/tp.html">  Tappy Planes </a>
 <br>
- Total games: 84
- <br>
- Have fun!
- <br>
-<a href="https://www.unblocked88.ml" class="btn btn-github"><span class="icon"></span>View original site that this is based off.</a>
-</section>
+ Total games: 85
         
 
