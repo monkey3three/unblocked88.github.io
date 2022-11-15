@@ -34,6 +34,12 @@
 <p>Other Games<p>
 <a href="/unblocked88.github.io/flash/flash pages/Papa's Pizzeria.html">  Papa's Pizzeria </a>
 <br>
+<a href="/unblocked88.github.io/flash/flash pages/Battle Ships.html">  Battle Ships </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Flappy Bird.html">  Flappy Bird </a>
+<br>
+<a href="/unblocked88.github.io/games/spacepress.html">  [Press Space] </a>
+<br>
 <a href="/unblocked88.github.io/flash/flash pages/Bloxorz.html">  Bloxorz </a>
 <br>
 <a href="/unblocked88.github.io/flash/flash pages/Bloons Pop Three.html">  Bloons Pop Three </a>
@@ -47,12 +53,6 @@
 <a href="/unblocked88.github.io/flash/flash pages/bloons tower defense 2.html">  Bloons Tower Defense 2 </a>
 <br>
 <a href="/unblocked88.github.io/flash/flash pages/Age of War.html">  Age of War </a>
-<br
-<a href="/unblocked88.github.io/flash/flash%20pages/Battle%20Ships.html">  Battle Ships </a>
-<br
-<a href="/unblocked88.github.io/flash/flash%20pages/Flappy%20Bird.html">  Flappy Bird </a>
-<br
-<a href="/unblocked88.github.io/games/spacepress.html">  [Press Space] </a>
 <br>
 <a href="/unblocked88.github.io/games/territorial-io.html">  Territorial.io </a>
 <br>
