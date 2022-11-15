@@ -1,6 +1,7 @@
 ## Welcome to monkey3three's unblocked game site!
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Site%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
-<p>Support me by helping to make this unblocked games website!
+<p>Support me by helping to make this unblocked games website!<p>
+<p>If a game says something like "ActionScript not supported" the game wil work click run anyway.<p>
 <br>
 <br>
 <a href="/unblocked88.github.io/downloads.html">  Downloads </a>
@@ -31,7 +32,13 @@
 <a href="/unblocked88.github.io/games/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
 <br>
 <p>Other Games<p>
-<a href="/unblocked88.github.io/flash/flash pages/The World's Hardest Game 2.html">  The World's Hardest Game 2 </a>
+<a href="/unblocked88.github.io/flash/flash pages/Papa's Pizzeria.html">  Papa's Pizzeria </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Bloxorz.html">  Bloxorz </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Bloons Pop Three.html">  Bloons Pop Three </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/The World's Hardest Game 3.html">  The World's Hardest Game 3 </a>
 <br>
 <a href="/unblocked88.github.io/flash/flash pages/The World's Hardest Game.html">  The World's Hardest Game </a>
 <br>
@@ -39,6 +46,12 @@
 <br>
 <a href="/unblocked88.github.io/flash/flash pages/bloons tower defense 2.html">  Bloons Tower Defense 2 </a>
 <br>
+<a href="/unblocked88.github.io/flash/flash pages/Age of War.html">  Age of War </a>
+<br
+<a href="/unblocked88.github.io/flash/flash%20pages/Battle%20Ships.html">  Battle Ships </a>
+<br
+<a href="/unblocked88.github.io/flash/flash%20pages/Flappy%20Bird.html">  Flappy Bird </a>
+<br
 <a href="/unblocked88.github.io/games/spacepress.html">  [Press Space] </a>
 <br>
 <a href="/unblocked88.github.io/games/territorial-io.html">  Territorial.io </a>
@@ -47,7 +60,7 @@
 <br>
 <a href="/unblocked88.github.io/games/Hacker Typer.html">  Hacker Typer </a>
 <br>
-<a href="/unblocked88.github.io/games/Dont Drink and Drive sim 2018.html">  Don't Drink & Drive Simulator 2018 </a>
+<a href="/unblocked88.github.io/flash/flash pages/Poop Clicker.html">  Poop Clicker </a>
 <br>
 <a href="/unblocked88.github.io/games/tttjs/ttt.html">  Tic Tac Toe 2 </a>
 <br>
@@ -203,6 +216,6 @@
  <br>
 <a href="/unblocked88.github.io/games/tp.html">  Tappy Planes </a>
 <br>
- Total games: 88
+ Total games: 94
         
 
