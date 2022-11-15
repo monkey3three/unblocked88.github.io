@@ -31,6 +31,10 @@
 <a href="/unblocked88.github.io/games/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/flash/flash pages/The World's Hardest Game 2.html">  The World's Hardest Game 2 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/The World's Hardest Game.html">  The World's Hardest Game </a>
+<br>
 <a href="/unblocked88.github.io/flash/flash pages/bloons tower defense.html">  Bloons </a>
 <br>
 <a href="/unblocked88.github.io/flash/flash pages/bloons tower defense 2.html">  Bloons Tower Defense 2 </a>
@@ -199,6 +203,6 @@
  <br>
 <a href="/unblocked88.github.io/games/tp.html">  Tappy Planes </a>
 <br>
- Total games: 86
+ Total games: 88
         
 
