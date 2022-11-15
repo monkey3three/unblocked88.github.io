@@ -136,7 +136,7 @@
 <br>
 <a href="/unblocked88.github.io/games/sandandwater.html">  Sand & Water Sim </a>
 <br>
-<a href="/unblocked88.github.io/games/slither.io v1 (1).html">  Slither.io </a> Multipayer does work now, however refresh the page if you are not connecting to your friends.
+<a href="/unblocked88.github.io/games/slither.io v1 (1).html">  Slither.io </a> Multipayer does work now, however refresh the page if you are not connecting to your friends. Turbowarp must be unblocked for multiplayer to work.
 <br>
 <p>All games below this writing won't work.<p>
 <br>
