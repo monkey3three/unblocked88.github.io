@@ -1,7 +1,7 @@
 ## Welcome to monkey3three's unblocked game site!
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Site%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 <p>Support me by helping to make this unblocked games website!<p>
-<p>If a game says something like "ActionScript not supported" the game wil work click run anyway.<p>
+<p>If a game says something like "ActionScript 3 not supported" the game wil work click run anyway.<p>
 <br>
 <br>
 <a href="/unblocked88.github.io/downloads.html">  Downloads </a>
@@ -31,12 +31,21 @@
 <br>
 <a href="/unblocked88.github.io/games/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
 <br>
+<p>Henry Stickmin Collection<p>
+<a href="/unblocked88.github.io/flash/flash pages/Infiltrating The Airship.html">  Infiltrating the Airship </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Fleeing the Complex.html">  Fleeing the Complex </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Breaking the Bank.html">  Breaking the Bank </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Stealing the Diamond.html">  Stealing the Diamond </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Escaping the Prison.html">  Escaping the Prison </a>
+<br>
 <p>Other Games<p>
 <a href="/unblocked88.github.io/flash/flash pages/Portal.html">  Portal </a>
 <br>
 <a href="/unblocked88.github.io/flash/flash pages/Pandemic 2.html">  Pandemic 2 </a>
-<br>
-<a href="/unblocked88.github.io/flash/flash pages/Infiltrating The Airship.html">  Infiltrating the Airship </a>
 <br>
 <a href="/unblocked88.github.io/flash/flash pages/Grow Valley.html">  Grow Valley </a>
 <br>
@@ -45,8 +54,6 @@
 <a href="/unblocked88.github.io/flash/flash pages/Jump It! 2.html">  Jump It! 2 </a>
 <br>
 <a href="/unblocked88.github.io/flash/flash pages/Jump It!.html"> Jump It! </a>
-<br>
-<a href="/unblocked88.github.io/flash/flash pages/Fleeing the Complex.html">  Fleeing the Complex </a>
 <br>
 <a href="/unblocked88.github.io/flash/flash pages/Road Rush.html">  Road Rush </a>
 <br>
@@ -244,6 +251,6 @@
  <br>
 <a href="/unblocked88.github.io/games/tp.html">  Tappy Planes </a>
 <br>
- Total games: 108
+ Total games: 111
         
 
