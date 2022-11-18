@@ -32,7 +32,35 @@
 <a href="/unblocked88.github.io/games/Bubble Scratch v0 (1).html">  Bubble Witch Saga 3 </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/flash/flash pages/Portal.html">  Portal </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Pandemic 2.html">  Pandemic 2 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Infiltrating The Airship.html">  Infiltrating the Airship </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Grow Valley.html">  Grow Valley </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Canyon Defense.html">  Canyon Defense </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Jump It! 2.html">  Jump It! 2 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Jump It!.html"> Jump It! </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Fleeing the Complex.html">  Fleeing the Complex </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Road Rush.html">  Road Rush </a>
+<br>
 <a href="/unblocked88.github.io/flash/flash pages/Papa's Pizzeria.html">  Papa's Pizzeria </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Sniper Assassin 5.html">   Sniper Assassin 5 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Sniper Assassin 4.html">   Sniper Assassin 4 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Sniper Assassin 3.html">   Sniper Assassin 3 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Sniper Assassin 2.html">   Sniper Assassin 2 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Sniper Assassin.html">  Sniper Assassin </a>
 <br>
 <a href="/unblocked88.github.io/flash/flash pages/Battle Ships.html">  Battle Ships </a>
 <br>
@@ -216,6 +244,6 @@
  <br>
 <a href="/unblocked88.github.io/games/tp.html">  Tappy Planes </a>
 <br>
- Total games: 94
+ Total games: 108
         
 
