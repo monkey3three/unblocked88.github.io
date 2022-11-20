@@ -45,6 +45,8 @@
 <p>Other Games<p>
 <a href="/unblocked88.github.io/games/eaglercraft/web/index.html">  Eaglercraft (Minecraft 1.5.2) </a>
 <br>
+<a href="https://github.com/monkey3three/unblocked88.github.io/wiki/Eaglercraft-Server-List">  Eaglercraft Server List </a>
+<br>
 <a href="/unblocked88.github.io/flash/flash pages/Portal.html">  Portal </a>
 <br>
 <a href="/unblocked88.github.io/flash/flash pages/Pandemic 2.html">  Pandemic 2 </a>
