@@ -43,6 +43,8 @@
 <a href="/unblocked88.github.io/flash/flash pages/Escaping the Prison.html">  Escaping the Prison </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/games/eaglercraft/web/index.html">  Eaglercraft (Minecraft 1.5.2) </a>
+<br>
 <a href="/unblocked88.github.io/flash/flash pages/Portal.html">  Portal </a>
 <br>
 <a href="/unblocked88.github.io/flash/flash pages/Pandemic 2.html">  Pandemic 2 </a>
@@ -251,6 +253,6 @@
  <br>
 <a href="/unblocked88.github.io/games/tp.html">  Tappy Planes </a>
 <br>
- Total games: 111
+ Total games: 112
         
 
