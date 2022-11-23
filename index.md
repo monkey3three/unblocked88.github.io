@@ -43,6 +43,24 @@
 <a href="/unblocked88.github.io/flash/flash pages/Escaping the Prison.html">  Escaping the Prison </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/flash/flash pages/KND - Flight of the Hamster.html">  KND Flight of the Hamster </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Feed Us 5.html">  Feed Us 5 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Electric Man 2.html">  Electric Man 2 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Chinese Checkers.html">  Chinese Checkers </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Chibi Knight.html">  Chibi Knight </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Caveman.html">  Caveman </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Big Red Button.html">  Big Red Button </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Beat Up Your PC.html">  Beat Up Your PC </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Apple Shooter.html">  Apple Shooter </a>
+<br>
 <a href="/unblocked88.github.io/games/eaglercraft/web/index.html">  Eaglercraft (Minecraft 1.5.2) </a>
 <br>
 <a href="https://github.com/monkey3three/unblocked88.github.io/wiki/Eaglercraft-Server-List">  Eaglercraft Server List </a>
@@ -255,6 +273,6 @@
  <br>
 <a href="/unblocked88.github.io/games/tp.html">  Tappy Planes </a>
 <br>
- Total games: 112
+ Total games: 121
         
 
