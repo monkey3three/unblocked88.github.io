@@ -43,6 +43,10 @@
 <a href="/unblocked88.github.io/flash/flash pages/Escaping the Prison.html">  Escaping the Prison </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/games/Highway-Traffic-Racer-master/Highway-Traffic-Racer-master/index.html">  Crossy Human 2 </a>
+<br>
+<a href="/unblocked88.github.io/games/HexGL-master/HexGL-master/index.html">  HexGL </a>
+<br>
 <a href="/unblocked88.github.io/flash/flash pages/KND - Flight of the Hamster.html">  KND Flight of the Hamster </a>
 <br>
 <a href="/unblocked88.github.io/flash/flash pages/Feed Us 5.html">  Feed Us 5 </a>
