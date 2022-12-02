@@ -43,6 +43,8 @@
 <a href="/unblocked88.github.io/flash/flash pages/Escaping the Prison.html">  Escaping the Prison </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/games/gamse-gh-pages/index.html">  Gameboy Advance Games </a>
+<br>
 <a href="/unblocked88.github.io/games/Highway-Traffic-Racer-master/Highway-Traffic-Racer-master/index.html">  Crossy Human 2 </a>
 <br>
 <a href="/unblocked88.github.io/games/HexGL-master/HexGL-master/index.html">  HexGL </a>
@@ -277,6 +279,7 @@
  <br>
 <a href="/unblocked88.github.io/games/tp.html">  Tappy Planes </a>
 <br>
- Total games: 123
+ Total games: 122 (The Gameboy Advance emulator has 150+)
         
+
 
