@@ -41,7 +41,9 @@ body {
     left: 0;
     width: var(--star-tail-length);
     height: var(--star-tail-height);
-    color: var(--star-color);
+    color: ///
+
+var(--star-color);
     background: linear-gradient(45deg, currentColor, transparent);
     border-radius: 50%;
     filter: drop-shadow(0 0 6px currentColor);
