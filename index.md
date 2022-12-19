@@ -203,87 +203,9 @@
 <br>
 <a href="/unblocked88.github.io/games/sandandwater.html">  Sand & Water Sim </a>
 <br>
-<a href="/unblocked88.github.io/games/slither.io v1 (1).html">  Slither.io </a> Multipayer does work now, however refresh the page if you are not connecting to your friends. Turbowarp must be unblocked for multiplayer to work.
+<a href="/unblocked88.github.io/games/slither.io v1 (1).html">  Slither.io </a> Multipayer does work now, however refresh the page if you are not connecting to your friends. Turbowarp must be unblocked for multiplayer to work, as it needs to access wss://turbowarp.com
 <br>
-<p>All games below this writing won't work.<p>
-<br>
-<a href="/unblocked88.github.io/games/wordle.html">  React Wordle </a>
-<br>
-<a href="/unblocked88.github.io/games/flappybird.html">  Flappy Bird </a>
-<br>
-<a href="/unblocked88.github.io/games/pacman2.html">  Pacman </a>
-<br>
-<a href="/unblocked88.github.io/games/sonic.html">  Sonic </a>
-<br>
-<a href="/unblocked88.github.io/games/angrybirds.html">  Angrybirds </a>
-<br>
-<a href="/unblocked88.github.io/games/angryturds.html">  Angryturds </a>
-<br>
-<a href="/unblocked88.github.io/games/blockescape.html">  Block Escape </a>
-<br>
-<a href="/unblocked88.github.io/games/buildingblocks.html">  BuildingBlocks </a>
-<br>
-<a href="/unblocked88.github.io/games/crossyfrog.html">  Crossy Frog </a>
-<br>
-<a href="/unblocked88.github.io/games/geodash.html">  Geometry Dash </a>
-<br>
-<a href="/unblocked88.github.io/games/jellyblocks.html">  Jelly Blocks </a>
-<br>
-<a href="/unblocked88.github.io/games/mario.html">  Mario </a>
-<br>
-<a href="/unblocked88.github.io/games/mariokart.html">  Mario Kart </a>
-<br>
-<a href="/unblocked88.github.io/games/matchcraft.html">  Matchcraft </a>
-<br>
-<a href="/unblocked88.github.io/games/mcmaze.html">  Minemaze </a>
-<br>
-<a href="/unblocked88.github.io/games/mineblock.html">  Mineblock </a>
-<br>
-<a href="/unblocked88.github.io/games/outrun.html">  Outrun Racing </a>
-<br>
-<a href="/unblocked88.github.io/games/outrun.html">  Pacman3D </a>
-<br>
-<a href="/unblocked88.github.io/games/pacmanfps.html">  PacmanShooter </a>
-<br>
-<a href="/unblocked88.github.io/games/pipemania.html">  PipeMania </a>
-<br>
-<a href="/unblocked88.github.io/games/pokemoncrush.html">  Pokemon Crush </a>
-<br>
-<a href="/unblocked88.github.io/games/racing.html">  Racing </a>
-<br>
-<a href="/unblocked88.github.io/games/snake3d.html">  Snake3D </a>
-<br>
-<a href="/unblocked88.github.io/games/sonicmario.html">  Sonic & Mario Bros. </a>
-<br>
-<a href="/unblocked88.github.io/games/spaceinvaders.html">  Space Invaders </a>
-<br>
-<a href="/unblocked88.github.io/games/tetris2.html">  Tetris </a>
-<br>
-<a href="/unblocked88.github.io/games/tictactoe.html">  Tic Tac Toe </a>
-<br>
-<a href="/unblocked88.github.io/games/tombraider.html">  Tomb Raider </a>
-<br>
-<a href="/unblocked88.github.io/games/heli.html">  Helicopter Adventure </a>
- <br>
-<a href="/unblocked88.github.io/games/fruitninja.html">  Fruit Ninja </a>
- <br>
-<a href="/unblocked88.github.io/games/mariofps.html">  Mario Shooter </a>
- <br>
-<a href="/unblocked88.github.io/games/geojump.html">  Geometry Jump </a>
- <br>
-<a href="/unblocked88.github.io/games/jig1.html">  Anime Jigsaw </a>
- <br>
-<a href="/unblocked88.github.io/games/jig2.html">  Anime Jigsaw 2 </a>
- <br>
-<a href="/unblocked88.github.io/games/mctetris.html">  Minetris </a>
- <br>
-<a href="/unblocked88.github.io/games/mk.html">  Minion Kart </a>
- <br>
-<a href="/unblocked88.github.io/games/rick.html">  Rick Dangerous </a>
- <br>
-<a href="/unblocked88.github.io/games/tp.html">  Tappy Planes </a>
-<br>
- Total games: 124 (The Gameboy Advance emulator has 150+)
+ Total games: 264 (Includes sub-branches such as the GBA emulator)
         
 
 
