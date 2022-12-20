@@ -44,6 +44,8 @@
 <a href="/unblocked88.github.io/flash/flash pages/Escaping the Prison.html">  Escaping the Prison </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/games/Slope-Game-main/Slope-Game-main/index.html">  Slope </a>
+<br>
 <a href="/unblocked88.github.io/games/fastroads-master/fastroads-master/index.html">  Fastroads.io (glitchy) </a>
 <br>
 <a href="/unblocked88.github.io/games/acsiicamera.html">  ASCII Camera </a>
@@ -206,7 +208,7 @@
 <br>
 <a href="/unblocked88.github.io/games/slither.io v1 (1).html">  Slither.io </a> Multipayer does work now, however refresh the page if you are not connecting to your friends. Turbowarp must be unblocked for multiplayer to work, as it needs to access wss://turbowarp.com
 <br>
- Total games: 264 (Includes sub-branches such as the GBA emulator)
+ Total games: 265 (Includes sub-branches such as the GBA emulator)
         
 
 
