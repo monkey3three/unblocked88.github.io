@@ -44,6 +44,26 @@
 <a href="/unblocked88.github.io/flash/flash pages/Escaping the Prison.html">  Escaping the Prison </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/flash/flash pages/Small-Town-Racing.html">  Small Town Racing </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Me and the Key 2.html">  Me and the Key 2 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Me and the Key.html">  Me and the Key </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Dumper Truck.html">  Dumper Truck </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Duck Life 4.html">  Duck Life 4 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Duck Life 3.html">  Duck Life 3 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Duck Life 2.html">  Duck Life 2 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Duck_Life_1.html">  Duck Life 1 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Super Mario 63.html">  Super Mario 63 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/The Impossible Quiz.html">  Impossible Quiz </a>
+<br>
 <a href="/unblocked88.github.io/games/Slope-Game-main/Slope-Game-main/index.html">  Slope </a>
 <br>
 <a href="/unblocked88.github.io/games/fastroads-master/fastroads-master/index.html">  Fastroads.io (glitchy) </a>
@@ -208,7 +228,7 @@
 <br>
 <a href="/unblocked88.github.io/games/slither.io v1 (1).html">  Slither.io </a> Multipayer does work now, however refresh the page if you are not connecting to your friends. Turbowarp must be unblocked for multiplayer to work, as it needs to access wss://turbowarp.com
 <br>
- Total games: 265 (Includes sub-branches such as the GBA emulator)
+ Total games: 275 (Includes sub-branches such as the GBA emulator)
         
 
 

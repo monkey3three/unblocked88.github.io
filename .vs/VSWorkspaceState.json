@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\flash",
+    "\\flash\\flash pages"
   ],
-  "SelectedNode": "\\flash",
+  "SelectedNode": "\\flash\\flash game files",
   "PreviewInSolutionExplorer": false
 }
