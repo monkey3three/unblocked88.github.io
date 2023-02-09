@@ -10,6 +10,8 @@
 <p>Featured:<p>
 <a href="/unblocked88.github.io/games/cookieclicker-gh-pages/cookie.html">  Cookie Clicker </a>
 <br>
+<a href="/unblocked88.github.io/games/mc-classic/index.html">  Minecraft Classic </a>
+<br>
 <a href="/unblocked88.github.io/games/Life.htm">  Conway's Game of Life </a>
 <br>
 <a href="/unblocked88.github.io/games/run3.html">  Run 3 </a>
@@ -44,6 +46,12 @@
 <a href="/unblocked88.github.io/flash/flash pages/Escaping the Prison.html">  Escaping the Prison </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/games/2048/index.html">  2048 </a>
+<br>
+<a href="/unblocked88.github.io/games/breaklock/index.html">  BreakLock </a>
+<br>
+<a href="/unblocked88.github.io/games/btd4/index.html">  Bloons Tower Defense 4 </a>
+<br>
 <a href="/unblocked88.github.io/flash/flash pages/Small-Town-Racing.html">  Small Town Racing </a>
 <br>
 <a href="/unblocked88.github.io/flash/flash pages/Me and the Key 2.html">  Me and the Key 2 </a>
@@ -228,7 +236,7 @@
 <br>
 <a href="/unblocked88.github.io/games/slither.io v1 (1).html">  Slither.io </a> Multipayer does work now, however refresh the page if you are not connecting to your friends. Turbowarp must be unblocked for multiplayer to work, as it needs to access wss://turbowarp.com
 <br>
- Total games: 275 (Includes sub-branches such as the GBA emulator)
+ Total games: 279 (Includes sub-branches such as the GBA emulator)
         
 
 
