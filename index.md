@@ -46,6 +46,10 @@
 <a href="/unblocked88.github.io/flash/flash pages/Escaping the Prison.html">  Escaping the Prison </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/flash/flash pages/Warfare 1944.html">  Warfare 1944 </a>
+<br>
+<a href="/unblocked88.github.io/flash/flash pages/Warfare 1917.html">  Warfare 1917 </a>
+<br>
 <a href="/unblocked88.github.io/games/2048/index.html">  2048 </a>
 <br>
 <a href="/unblocked88.github.io/games/breaklock/index.html">  BreakLock </a>
@@ -236,7 +240,7 @@
 <br>
 <a href="/unblocked88.github.io/games/slither.io v1 (1).html">  Slither.io </a> Multipayer does work now, however refresh the page if you are not connecting to your friends. Turbowarp must be unblocked for multiplayer to work, as it needs to access wss://turbowarp.com
 <br>
- Total games: 279 (Includes sub-branches such as the GBA emulator)
+ Total games: 281 (Includes sub-branches such as the GBA emulator)
         
 
 
