@@ -46,6 +46,10 @@
 <a href="/unblocked88.github.io/flash/flash pages/Escaping the Prison.html">  Escaping the Prison </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/games/Skifree.js-master/Skifree.js-master/index.html">  Skifree </a>
+<br>
+<a href="/unblocked88.github.io/games/Astray-master/Astray-master/index.html">  Astray </a>
+<br>
 <a href="/unblocked88.github.io/flash/flash pages/Warfare 1944.html">  Warfare 1944 </a>
 <br>
 <a href="/unblocked88.github.io/flash/flash pages/Warfare 1917.html">  Warfare 1917 </a>
