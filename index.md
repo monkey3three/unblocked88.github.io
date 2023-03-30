@@ -46,6 +46,22 @@
 <a href="/unblocked88.github.io/flash/flash pages/Escaping the Prison.html">  Escaping the Prison </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/games/unblockedgames-main/unblockedgames-main/play/whac-a-mole/index.html">  Whack a Mole </a>
+<br>
+<a href="/unblocked88.github.io/games/unblockedgames-main/unblockedgames-main/play/interactivebuddy/index.html">  Interactive Buddy </a>
+<br>
+<a href="/unblocked88.github.io/games/unblockedgames-main/unblockedgames-main/play/bloonstd2/index.html">  Bloons TD 2 </a>
+<br>
+<a href="/unblocked88.github.io/games/unblockedgames-main/unblockedgames-main/play/bloonstd/index.html">  Bloons TD </a>
+<br>
+<a href="/unblocked88.github.io/games/unblockedgames-main/unblockedgames-main/play/backrooms/index.html">  Backrooms </a>
+<br>
+<a href="/unblocked88.github.io/games/unblockedgames-main/unblockedgames-main/play/1v1/index.html">  1v1.lol </a>
+<br>
+<a href="/unblocked88.github.io/games/unblockedgames-main/unblockedgames-main/play/ages-of-conflict/index.html">  Ages of Conflict </a>
+<br>
+<a href="/unblocked88.github.io/games/unblockedgames-main/unblockedgames-main/play/minecraft-js/index.html">  Minecraft-js </a>
+<br>
 <a href="/unblocked88.github.io/games/skifree.js-master/skifree.js-master/index.html">  Skifree </a>
 <br>
 <a href="/unblocked88.github.io/games/Astray-master/Astray-master/index.html">  Astray </a>
@@ -244,7 +260,6 @@
 <br>
 <a href="/unblocked88.github.io/games/slither.io v1 (1).html">  Slither.io </a> Multipayer does work now, however refresh the page if you are not connecting to your friends. Turbowarp must be unblocked for multiplayer to work, as it needs to access wss://turbowarp.com
 <br>
- Total games: 281 (Includes sub-branches such as the GBA emulator)
-        
+ Total games: 291 (Includes games not visible on this such as the GBA emulator games)
 
 
