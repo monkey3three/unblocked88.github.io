@@ -1,0 +1,88 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>NeverEnding Legacy</title>
+<!--
+Code and graphics copyright Orteil, 2016-2017
+Feel free to alter this code to your liking, but please do not re-host it, do not profit from it and do not present it as your own.
+-->
+
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies for ads and traffic analysis.","dismiss":"Got it!","learnMore":"Learn more","link":"//orteil.dashnet.org/cookieconsentpolicy.html","target":"_blank","theme":"//orteil.dashnet.org/cookieconsent.css","domain":"dashnet.org"};
+</script>
+
+<link rel="shortcut icon" href="img/favicon.ico" />
+<link href="https://fonts.googleapis.com/css?family=Domine" rel="stylesheet">
+<link href="style.css?v=13" rel="stylesheet" type="text/css">
+
+<script src="main.js?v=13b"></script>
+
+</head>
+<body>
+
+<div id="wrap">
+	<div id="topBar">
+		<div id="versions" style="float:right;"></div>
+		<div><b>NeverEnding Legacy</b>&trade; &copy; <a href="//orteil.dashnet.org" target="_blank">Orteil</a>, 2017 - <a href="//dashnet.org" target="_blank">DashNet</a></div>
+		<div><a href="https://twitter.com/orteil42" target="_blank">twitter</a></div>
+		<div><a href="https://orteil42.tumblr.com" target="_blank">tumblr</a></div>
+		<div>Help? Bugs? Ideas? Check out our <a href="https://discordapp.com/invite/cookie" target="_blank">discord</a>!</div>
+		<div><a href="//orteil.dashnet.org/cookieclicker/" target="_blank">Cookie Clicker</a></div>
+	</div>
+
+	<div id="fpsCounter"></div>
+	<canvas id="fpsGraph" width="128" height="64"></canvas>
+
+	<div id="deleteOnLoad" class="fullCenteredOuter plop" style="position:absolute;"><div id="deleteOnLoadContent" class="fullCenteredInner">
+		<div id="loading" class="fancyText">Loading...</div>
+		<div id="failedToLoad" class="framed bgDark fancyText">This is taking longer than expected.<div class="divider"></div>
+		<div style="font-size:14px;line-height:120%;">Slow connection? If not, please make sure your javascript is enabled, then refresh.<br><br>
+		If problems persist, your browser might simply be too old; this could also be a problem on our side - in which case, wait a few minutes, then hit ctrl+f5!</div></div>
+	</div></div>
+
+	<div id="game">
+		<div id="background" class="bgDark"></div>
+		<div id="blackBackground"></div>
+		<div id="foreground"></div>
+		<div id="middleText" class="fancyText"></div>
+		
+		<div id="generalInfo" class="bgPanelDown">
+			<div id="debug"></div>
+			<div id="topInterface"></div>
+			<div id="logo"></div>
+			<div id="logoOver"><div id="logoOverA"><div id="logoOverB"></div></div></div>
+		</div>
+
+		<div id="resources" class="bgMid">
+			<div class="tabList"><div class="tab">Resources</div></div>
+			<div id="extraRes"></div>
+			<div id="resBox" class="thingBox"></div>
+		</div>
+
+		<div id="sections" class="bgDark">
+		</div>
+
+		<div id="messages" class="bgMid bgFixed">
+			<div class="tabList"><div class="tab right">Log</div></div>
+			<div id="infoPopup" class="framed bgDark bgFixed"></div>
+			<div class="fullBottomOuter"><div id="messagesList" class="fullBottomInner"></div></div>
+		</div>
+
+		<div id="info"></div>
+
+	</div>
+	
+	<div id="dialogues"></div>
+	
+	<div id="popupContainer">
+		<div id="widgetAnchor"><div id="widget" class="widget framed bgDark"></div></div>
+		<div id="tooltipAnchor"><div id="tooltip" class="tooltip framed bgDark"></div></div>
+		<div id="particlesAnchor"></div>
+		<div id="squaresAnchor"><div id="square1" class="popupSquare"></div><div id="square2" class="popupSquare"></div><div id="square3" class="popupSquare"></div></div>
+	</div>
+</div>
+
+</body>
+</html>

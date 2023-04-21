@@ -46,6 +46,8 @@
 <a href="/unblocked88.github.io/flash/flash pages/Escaping the Prison.html">  Escaping the Prison </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/games/never-ending-legacy-source-main/never-ending-legacy-main/index.html">  Never Ending Legacy </a>
+<br>
 <a href="/unblocked88.github.io/games/unblockedgames-main/unblockedgames-main/play/whac-a-mole/index.html">  Whack a Mole </a>
 <br>
 <a href="/unblocked88.github.io/games/unblockedgames-main/unblockedgames-main/play/interactivebuddy/index.html">  Interactive Buddy </a>
@@ -260,6 +262,6 @@
 <br>
 <a href="/unblocked88.github.io/games/slither.io v1 (1).html">  Slither.io </a> Multipayer does work now, however refresh the page if you are not connecting to your friends. Turbowarp must be unblocked for multiplayer to work, as it needs to access wss://turbowarp.com
 <br>
- Total games: 291 (Includes games not visible on this such as the GBA emulator games)
+ Total games: 292 (Includes games not visible on this such as the GBA emulator games)
 
 
