@@ -46,7 +46,7 @@
 <a href="/unblocked88.github.io/flash/flash pages/Escaping the Prison.html">  Escaping the Prison </a>
 <br>
 <p>Other Games<p>
-<a href="/unblocked88.github.io/games/never-ending-legacy-source-main/never-ending-legacy-main/index.html">  Never Ending Legacy </a>
+<a href="/unblocked88.github.io/games/never-ending-legacy-source-main/never-ending-legacy-source-main/index.html">  Never Ending Legacy </a>
 <br>
 <a href="/unblocked88.github.io/games/unblockedgames-main/unblockedgames-main/play/whac-a-mole/index.html">  Whack a Mole </a>
 <br>
