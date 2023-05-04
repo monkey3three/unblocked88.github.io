@@ -46,6 +46,12 @@
 <a href="/unblocked88.github.io/flash/flash pages/Escaping the Prison.html">  Escaping the Prison </a>
 <br>
 <p>Other Games<p>
+<a href="/unblocked88.github.io/games/tiny-fishing/index.html">  Tiny Fishing </a>
+<br>
+<a href="/unblocked88.github.io/games/the-final-earth/index.html">  The Final Earth </a>
+<br>
+<a href="/unblocked88.github.io/games/clicker-heroes/index.html">  Clicker Heroes </a>
+<br>
 <a href="/unblocked88.github.io/games/MrMiner-master/WebGL Builds/index.html">  Mr Mine </a>
 <br>
 <a href="/unblocked88.github.io/games/never-ending-legacy-source-main/never-ending-legacy-source-main/index.html">  Never Ending Legacy </a>
