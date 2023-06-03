@@ -1,0 +1,53 @@
+* TODO Remove Coquette
+* DONE Accurate client/server time and latency measurements (try to piggyback on WebSocket pings?)
+* DONE Calculate actual elapsed time when doing physics, instead of fixed interval
+* DONE Ship colors - generate different colors for ships server side, sync in data
+* DONE Asteroids flying around (spawn with size and velocity -- for bonus points, make them spin)
+* DONE Ship drift/velocity
+* TODO Move stars server side
+* TODO More star variety/constellations
+* TODO Update diffs instead of full updates
+* DONE Server-side collision detection
+* TODO Client-side collision detection
+* DONE Missiles hitting things
+* DONE Health
+* DONE Asteroids splitting (predetermined chunk sizes and ids?)
+* DONE Client disconnect -> death/disappear
+* DONE Better ids for projectiles
+* TODO Large game map, viewports with smart data sync
+* DONE Prediction, interpolation, lag compensation, etc
+* TODO Profiling/benchmarking
+* DONE Health bars
+* DONE Death detection
+* TODO Score
+* TODO Death animation
+* TODO Spawn animation
+* DONE Minimap/radar and/or arrows indication direction to off-screen enemies
+* DONE Use gopherjs (https://github.com/gopherjs/gopherjs) to sync game object construct and simulation logic? (not doing it)
+* DONE JSON stringify update message before sending to each client (not doing it -- now we have last event id)
+* TODO Wrap-around map? (probably won't have time for view-ports)
+* DONE Try new heartbeat-request-update model
+* DONE Use SMA for clock diff
+* DONE Compare msgpack, LZW encoding, protobuf (create some sample data with a few ships, a bunch of projectiles & asteroids)
+* DONE Fix deletion of dead objects -- either auto-delete after X seconds, or track last-synced timestamp of each connected client, and maintain a "low water mark" in game, pass that into history on tick so it knows what it can cull
+* DONE Split collision detection into a separate step after all positions have been updated
+* DONE Add ship velocity to projectiles
+* TODO When position is incorrect, smooth it with a vector instead of jumping right there
+* TODO Replace panic and log.Fatal statements with error logs, so at least an error won't crash it
+* TODO Measure server timestamps as time since boot? (To make the numbers smaller and hence cut down on data)
+* TODO Smarter updates: if asterdoid created time <= last update, remove shape data and other non-changing info?
+* TODO Re-swawn new asteroids after some die
+* TODO Do 3-phase collision detection -- first a really rough estimate, then second phase checking hitbox intersection, then third phase of actual ploygon intersection
+* TODO Add alien space-ships
+* DONE Randomize spawn points! (especially with ship-ship collisions)
+* TODO Faster collision detection? -> http://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374
+* TODO Refactor go LZW implementation to use io.Reader and io.Writer streams, and stream data right into websocket
+* DONE Respawn player on death (or auto-refresh page)
+* TODO Detect objects coming back to life from server update, re add entity. (Or defer deletion for a bit and stop drawing when dead).
+
+Notes from arcade game:
+* Bullets are very bright, pulse, and leave both a bright trail and a slight trail , looking like shooting starts.
+* Ship has subtle flame in rear when accelerating, leaves subtle trail.
+* Alien spaceships that move around erratically trying to kill you.
+* Asteroids are more blocky, leave alpha trails.
+* Ship breaks apart into lines when killed.
