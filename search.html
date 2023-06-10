@@ -1,23 +1,218 @@
----
-title: Search
-description: "Search this site"
-layout: page
-permalink: /search/
-tipue_search_active: true
-exclude_from_search: true
----
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <body style="background-color:black;">
+        <style>
+            * {
+                box-sizing: border-box;
+            }
 
-<form action="{{ page.url | relative_url }}">
-  <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
-  <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
-  <div style="clear: both;"></div>
-</form>
+            #myInput {
+                background-image: url('/css/searchicon.png');
+                background-position: 10px 12px;
+                background-repeat: no-repeat;
+                width: 100%;
+                font-size: 16px;
+                padding: 12px 20px 12px 40px;
+                border: 1px solid #880808;
+                margin-bottom: 12px;
+            }
 
-<div id="tipue_search_content"></div>
+            #myUL {
+                list-style-type: none;
+                padding: 0;
+                margin: 0;
+            }
 
-<script>
-$(document).ready(function() {
-  $('#tipue_search_input').tipuesearch();
-});
-</script>
+                #myUL li a {
+                    border: 1px solid #880808;
+                    margin-top: -1px; /* Prevent double borders */
+                    background-color: #000000;
+                    padding: 12px;
+                    text-decoration: none;
+                    font-size: 18px;
+                    color: red;
+                    display: block
+                }
 
+                    #myUL li a:hover:not(.header) {
+                        background-color: #000000;
+                    }
+        </style>
+</head>
+<body>
+
+    <h1 style="color: red;">Search monkey3three</h1>
+
+    <input type="text" style="background-color:#880808" id="myInput" onkeyup="myFunction()" placeholder="Search for games.." title="Type in a game">
+
+    <ul id="myUL">
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/cookieclicker-gh-pages/cookie.html">Cookie Clicker</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/never-ending-legacy-source-main/never-ending-legacy-source-main">Never Ending Legacy</a></li>
+
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/2048/index.html">2048</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/cut-the-rope/index.html">Cut the Rope</a></li>
+
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/btd4/index.html">Bloons Tower Defense 4</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/adarkroom-main/adarkroom-main/index.html">A Dark Room</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Astray-master/Astray-master/index.html">Astray</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/awesome-tanks-2/index.html">Awesome Tanks 2</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/breaklock/index.html">Breaklock</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/chatgpt/index.html">ChatGPT</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Classic-Arcade-Game-master/Classic-Arcade-Game-master/Classic Arcade Game/index.html">Crossy Human</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/clicker-heroes/index.html">Clicker Heroes</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/crossy-road/index.html">Crossy Road</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/dino/dinomaster/index.html">Dino Game</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/eaglercraft/web/index.html">Eaglercraft</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/effingworms/index.html">Effing Worms</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/fastroads-master/fastroads-master/index.html">Fastroads.io</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/fruitninja/index.html">Fruit Ninja</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/gamse-gh-pages/index.html">Gameboy Advance Games/Emulator</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/HexGL-master/HexGL-master/index.html">HexGL</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Highway-Traffic-Racer-master/Highway-Traffic-Racer-master/index.html">Highway Traffic Racer</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/mc-classic/index.html">Minecraft Classic</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Memory-Game/Memory-Game-master/Memory-Game/index.html">Memory Game</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/MrMiner-master/WebGL Builds/index.html">Mr Miner</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/papasb/index.html">Papa's Burgeria'</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/rooftop-snipers/index.html">Rooftop Snipers</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/skifree.js-master/skifree.js-master/index.html">Skifree</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/slope2/index.html">Slope 2</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Slope-Game-main/Slope-Game-main/index.html">Slope</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/stickman-hook/index.html">Stickman Hook</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/stuntcars/index.html">Stunt Cars</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/subway-surfers/index.html">Subway Surfers</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/superhot/index.html">Superhot</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/temple-run-2/index.html">Temple Run 2</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/the-final-earth/index.html">The Final Earth</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/time-shooter/index.html">Time Shooter</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/tiny-fishing/index.html">Tiny Fishing</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/townscaper/index.html">Townscaper</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/tttjs/ttt.html">Tic Tac Toe</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/tunnel-rush/index.html">Tunnel Rush</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/unblockedgames-main/unblockedgames-main/bouncybasketball/index.html">Bouncy Basketball</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/unblockedgames-main/unblockedgames-main/interactivebuddy/index.html">Interactive Buddy</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/3D Plane Game v2.html">3D Plane Game 2</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/3D Plane sim v1.html">3D Plane Sim</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/3D Plane Sim.html">3D Plane Game</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/3D Star Wars 0.9.html">3D Star Wars</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/asciicamera.html">ASCII Camera</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/adjustable-fireworks.html">Adjustable Fireworks</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/ant-colony.html">Ant Colony Sim</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/avoid-the-bikes.html">Avoid the Bikes</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/brick-breaker.html">Brick Breaker</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Bubble Scratch v0 (1).html">Bubble Witch Saga 3</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Chase HQ.html">Chase HQ</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/CSGO Surf 2.html">Surf</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Doom Splatoon V5.html">Doom Splatoon V5</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/drifty car.html">Drifty Car</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/fall_game.html">Fall</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Geometry Dash v1.html">Geometry Dash</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/geounbroken.html">Geometry Dash Unbroken/Hardcore</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Hacker Typer.html">Hacker Typer</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/hangman.html">Hangman</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/hextris.html">Hextris</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Hideout 3D.html">Hideout 3D</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Hill Climb Racing v1.html">Hill Climb Racing</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/internetclicker.html">Internet Clicker</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Life.htm">Conway's Game of Life</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Minecraft 3D.html">Minecraft 3D</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Minecraft V6.html">Minecraft V6</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Paint Extended Starter Project.html">Paint</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/ping-pong.html">Ping Pong</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/platform.html">Platformer</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/PlayNote v0.html">PlayNote</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Ragdoll Physics v5.html">Ragdoll Physics</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Rainbow Rocket v0.html">Rainbow Rocket</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/randomPassword.html">Random Password Generator</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/run3.html">Run 3</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/sandandwater.html">Sand and Water</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/slither.io v1 (1).html">Slither.io (Turbowarp Servers)</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/snake.html">Snake</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Snowboard Physics Test v0.html">Snowboard.io</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/spacepress.html">Press Space</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/stack.html">Stack</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/strange_insults.html">Strange Insults Generator</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/territorial-io.html">Territorial.io</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/tetris.html">Tetris</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/tiles.html">Tiles</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/tic-tac-toe.html">Tic Tac Toe 2</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Top Down 3D City Experiment v1.html">Top Down 3D City</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Turrican II.html">Turrican II</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/webmine.html">Webmine</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/whack-a-mole.html">Whack-A-Mole</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Wolfenstein 3D watered down.html">Wolfenstein 3D</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Age of War.html">Age of War</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Apple Shooter.html">Apple Shooter</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Battle Ships.html">Battle Ships</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Beat Up Your PC.html">Beat Up Your PC</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Big Red Button.html">Big Red Button</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Bloons Pop Three.html">Bloons Pop Three</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Bloons Tower Defense 2.html">Bloons Tower Defense 2</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Bloons Tower Defense.html">Bloons Tower Defense</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Bloxorz.html">Bloxorz</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Breaking the Bank.html">Breaking the Bank</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Canyon Defense.html">Canyon Defense</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Caveman.html">Caveman</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Chibi Knight.html">Chibi Knight</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Chinese Checkers.html">Chinese Checkers</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Duck Life 2.html">Duck Life 2</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Duck Life 3.html">Duck Life 3</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Duck Life 4.html">Duck Life 4</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Duck_Life_1">Duck Life</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Dumper Truck.html">Dumper Truck</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Electric 2.html">Electric Man 3</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Escaping the Prison">Escaping the Prison</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Feed Us 5.html">Feed Us 5</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Flappy Bird.html">Flappy Bird</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Fleeing the Complex.html">Fleeing the Complex</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Grow Valley.html">Grow Valley</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Infiltrating the Airship.html">Infiltrating the Airship</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Jump It!.html">Jump It!</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Jump It! 2.html">Jump It! 2</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/KND - Flight of the Hamster.html">KND - Flight of the Hamster</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Me and the Key 2.html">Me and the Key 2</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Me and the Key.html">Me and the Key</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Pandemic 2.html">Pandemic 2</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Papa Louie.html">Papa Louie</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Poop Clicker.html">Poop Clicker</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Road Rush.html">Road Rush</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Portal.html">Portal</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Small Town Racing.html">Small Town Racing</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Sniper Assasain.html">Sniper Assasain</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Sniper Assasain 2.html">Sniper Assasain 2</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Sniper Assasain 3.html">Sniper Assasain 3</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Sniper Assasain 4.html">Sniper Assasain 4</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Sniper Assasain 5.html">Sniper Assasain 5</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Stealing the Diamond.html">Stealing the Diamond</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Storm thr House.html">Storm The House.html</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/Super Mario 64.html">Super Mario 63</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/The Impossible Quiz.html">The Impossible Quiz</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/The World's Hardest Game.html">The World's Hardest Game'</a></li>
+        <li><a href="monkey3three.github.io/unblocked88.github.io/flash/flash pages/The World's Hardest Game 3.html'">The World's Hardest Game 3'</a></li>
+        
+        <li><a href="monkey3three.github.io/unblocked88.github.io/games/Slope-Game-main/Slope-Game-main/index.html">Slope</a></li>
+        <li><a href="#"></a></li>
+    </ul>
+
+    <script>
+function myFunction() {
+    var input, filter, ul, li, a, i, txtValue;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("myUL");
+    li = ul.getElementsByTagName("li");
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+        txtValue = a.textContent || a.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}
+    </script>
+
+</body>
+</html>

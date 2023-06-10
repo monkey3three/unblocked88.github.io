@@ -15,7 +15,7 @@
   cursor: pointer;
 }
 </style>
-<a href="https://monkey3three.github.io/unblocked88.github.io/about.html" class="button">About</a> <a href="https://monkey3three.github.io/unblocked88.github.io/games.html" class="button">Games</a> <a href="https://github.com/monkey3three/unblocked88.github.io" class="button">Source Code</a> <a href="https://monkey3three.github.io/unblocked88.github.io/downloads.html" class="button">Downloads</a>
+<a href="https://monkey3three.github.io/unblocked88.github.io/about.html" class="button">About</a> <a href="https://monkey3three.github.io/unblocked88.github.io/games.html" class="button">Games</a> <a href="https://github.com/monkey3three/unblocked88.github.io" class="button">Source Code</a> <a href="https://monkey3three.github.io/unblocked88.github.io/downloads.html" class="button">Downloads</a> <a href="https://monkey3three.github.io/unblocked88.github.io/search.html" class="button">Search</a>
 <body style="background-color:black;">
 
 <h3 style="color:red;">Changelog</h3>
