@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <h1 style="color:red;">monkey3three</h1>
+<img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&amp;label=Site%20views&amp;color=ce9927&amp;style=flat" alt="GITHUB-USERNAME">
 <style>
 .button {
   background-color: #808080;
