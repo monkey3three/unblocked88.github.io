@@ -20,6 +20,10 @@
 
 <h3 style="color:red;">Changelog</h3>
 
+<p style="color:red;">Alpha-v0.36</p>
+
+<p style="color:red;">Added search and added Townscaper, Superhot, Papa's Burgeria and Stunt Cars.</p>
+
 <p style="color:red;">Alpha-v0.31</p>
 
 <p style="color:red;">Added homepage, about, updated games and updated download pages.  The following games have been added: Rooftop Snipers, ChatGPT and Awesome Tanks 2.</p>
