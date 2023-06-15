@@ -1,0 +1,6 @@
+#!/bin/bash
+curl https://zombsroyale.io/asset/build/UnityLoader.js -o asset/build/UnityLoader.js
+curl https://zombsroyale.io/asset/build/webgl.data.unityweb -o asset/build/webgl.data.unityweb
+curl https://zombsroyale.io/asset/build/webgl.wasm.code.unityweb -o asset/build/webgl.wasm.code.unityweb
+curl https://zombsroyale.io/asset/build/webgl.wasm.framework.unityweb -o asset/build/webgl.wasm.framework.unityweb
+curl https://zombsroyale.io/build/webgl -o build/webgl

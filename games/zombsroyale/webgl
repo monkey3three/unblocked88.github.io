@@ -1,0 +1,20 @@
+{
+    "companyName": "Yang Liu",
+    "productName": "Zombs Royale",
+    "productVersion": "2.5.4",
+    "dataUrl": "\/asset\/build\/webgl.data.unityweb?d99ebc0",
+    "wasmCodeUrl": "\/asset\/build\/webgl.wasm.code.unityweb?f6ed7ae",
+    "wasmFrameworkUrl": "\/asset\/build\/webgl.wasm.framework.unityweb?95a1482",
+    "asmCodeUrl": "\/asset\/build\/webgl.asm.code.unityweb?954bbfb",
+    "asmMemoryUrl": "\/asset\/build\/webgl.asm.memory.unityweb?d70c6f2",
+    "asmFrameworkUrl": "\/asset\/build\/webgl.asm.framework.unityweb?a323273",
+    "TOTAL_MEMORY": 503316480,
+    "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+    "webglContextAttributes": { "preserveDrawingBuffer": false },
+    "splashScreenStyle": "Dark",
+    "backgroundColor": "#101010",
+    "cacheControl": { "default": "must-revalidate" },
+    "developmentBuild": false,
+    "multithreading": false,
+    "unityVersion": "2019.2.3f1"
+}
