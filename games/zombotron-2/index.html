@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<title>Zombotron 2 | No Ads | Play It At Friv® 🕹️</title>
+<meta charset=utf-8>
+<!-- c -->
+<meta content="A pile of scrap for a spacecraft. It was bound to crash. Now you need to find a way to leave this terrible planet. And, err, you may have to vanquish some Zombies to do so. Play Zombotron 2 on Friv!" name=description>
+<meta content="width=device-width,initial-scale=1" name=viewport>
+<link href=./assets/img/frivIcon.png rel="shortcut icon">
+<link href=./assets/css/game.css rel=stylesheet>
+<body>
+<div style="display:none;" id=lcp></div><div id=debugText></div>
+<div style="display:none;" id=fullScreenButton></div>
+<div style="display:none;" id=backButton></div>
+<div style="display:none;" id=gameEffectsIndicator></div>
+<div style="display:none;" id=gameEffectsButton></div>
+<div style="display:none;" id=walkthroughButton></div>
+<div style="display:none;" id=orientationOverlay></div>
+<div style="display:none;" id=spare1></div>
+<div style="display:none;" id=loadingOverlay>
+<div style="display:none;" id=spare2></div>
+<div style="display:none;" id=orientationIconLandscape></div>
+<div style="display:none;" id=orientationIconPortrait></div>
+<div style="display:none;" id=loadingBox>
+<div style="display:none;" id=spinnerContainer>
+<div style="display:none;" id=spinner></div>
+<div style="display:none;" id=gameMB></div>
+<div style="display:none;" id=playButton></div>
+</div>
+</div>
+<div style="display:none;" id=infoBox>
+<div style="display:none;" id=infoBoxLoadingBar></div>
+<div style="display:none;" id=infoBoxTitle class=notranslate></div>
+<div style="display:none;" id=infoBoxDesc></div>
+<div style="display:none;" id=infoBoxControls class=notranslate></div>
+</div>
+<div style="display:none;" id=promoBox></div>
+</div>  
+<div style="display:none;" id=gameOverlay></div>
+<iframe id=gameBox title=gameBox src=about:blank></iframe>
+<script>
+var game={
+title:"Zombotron 2",
+enDescription:"A pile of scrap for a spacecraft. It was bound to crash. Now you need to find a way to leave this terrible planet. And, err, you may have to vanquish some Zombies to do so.",
+source: "./assets/index-x.html",
+walkthrough:"",
+loadingSizeMB:42,
+loadingSeconds:"auto",
+controls:"mk",
+keys:"UDLRwasdSerp",
+orientation:"Landscape",
+orientationAdviceRequired:false,
+showBackButton:true,
+showGameEffectsButton:false,
+spare:0
+}
+
+        ///for frenchies
+        var lang = navigator.language.toLowerCase();
+        var shortLang = lang.slice(0, 2);
+        if (shortLang == "fr") {
+            game.keys = "UDLRtfghSerp";
+        }
+    
+</script>
+<script src=./assets/scripts/game.js></script>

@@ -1,0 +1,124 @@
+<!-- This file, related code, assets, styling and indicia are Copyright (c) Friv.com 2006-2022. Unauthorised reproduction in whole or in part is strictly prohibited. Friv is a registered trademark. All rights reserved. -->
+
+<!DOCTYPE html>
+<html lang=en>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow">
+    <title>Zombotron 2</title>
+    
+
+    <style>
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        #inner {
+            margin: 0 auto;
+            width: 133vh;
+            height: 100vh;
+            position: relative;
+        }
+
+        #spinner {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            margin: auto;
+            height: 10vh;
+            width: 10vh;
+            border-radius: 50%;
+            border-style: solid;
+            border-width: 2vh;
+            border-color: white;
+            animation: spinner 1s linear forwards infinite;
+        }
+
+        @keyframes spinner {
+            0% {
+                border-left-color: green;
+                border-top-color: white;
+                border-right-color: white;
+                border-bottom-color: lime;
+            }
+
+            25% {
+                border-left-color: lime;
+                border-top-color: green;
+                border-right-color: white;
+                border-bottom-color: white;
+            }
+
+            50% {
+                border-left-color: white;
+                border-top-color: lime;
+                border-right-color: green;
+                border-bottom-color: white;
+            }
+
+            75% {
+                border-left-color: white;
+                border-top-color: white;
+                border-right-color: lime;
+                border-bottom-color: green;
+            }
+
+            100% {
+                border-left-color: green;
+                border-top-color: white;
+                border-right-color: white;
+                border-bottom-color: lime;
+            }
+        }
+
+    </style>
+
+</head>
+
+<body>
+    
+    <div id=spinner></div>
+    <div id="inner"></div>
+    
+    <script src="zombotron2.js"></script>
+
+    <script>
+        var intervalID = setInterval(function() {
+            if (document.getElementById('stage0') !== null) {
+                document.getElementById('stage0').firstChild.style.backgroundColor = "rgb(0, 0, 0)";
+                var node = document.getElementById("stage0");
+                if (node.parentNode) node.parentNode.removeChild(node);
+                document.getElementById('inner').appendChild(node);
+                clearInterval(intervalID);
+            }
+        }, 500);
+
+        //WARNING! Sitelock code. DO NOT REMOVE
+        //This game may only be made available on the hosts specified below. It is unlawful for legal entities which have not licensed the game to host it.
+        //Circumventing technological protection measures (TPMs) https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act#Anti-circumvention will result in legal action, and DMCA requests against hosts.
+        //
+        var gameLocation = "friv.com";
+        var gameAllowed = false;
+        var legalSites = ["friv.com", "friv.co.uk", "friv4school.com", "frivmath.com", "funo.com", "funomath.com", "yurk.com", "femo.com", "fabo.com"];
+
+        for (i = 0; i < legalSites.length; i++) {
+            if (gameLocation.indexOf(legalSites[i]) > -1) {
+                gameAllowed = true;
+            }
+        }
+
+        if (!gameAllowed) {
+            setInterval(function() {
+                document.write("Something went wrong. Please play this game at " + legalSites[0] + "! ");
+            }, 100);
+        }
+    </script>
+
+</body>
+
+</html>
