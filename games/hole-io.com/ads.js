@@ -1,1 +1,0 @@
-var NoAdblock = 1;

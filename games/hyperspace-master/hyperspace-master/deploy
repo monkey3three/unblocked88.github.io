@@ -1,3 +1,0 @@
-#!/bin/bash
-
-ssh hyperspace@landvik.kenpratt.net "cd hyperspace && git pull && cd server && GOPATH=~/go go build && cd .. && sudo ./bin/restart"
