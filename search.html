@@ -1,5 +1,16 @@
 <!DOCTYPE html>
 <html>
+<script>
+    var password = "69davids";
+    (function promptPass() {
+        var psw = prompt("Enter your Password");
+        while (psw !== password) {
+            alert("Incorrect Password");
+            return promptPass();
+        }
+    }());
+    alert('Correct Password\nWelcome!');
+</script>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <body style="background-color:black;">
@@ -250,7 +261,7 @@
         <li><a href="games/asciispace/index.html">ASCII Space</a></li>
         <li><a href="games/aquapark-slides/index.html">Aqua Park Slides</a></li>
         <li><a href="games/unblockedgames-main/unblockedgames-main/play/backrooms/index.html">Backrooms</a></li>
-        <li><a href="games/bitlife-life-simulator/index.html">Bit Life</a></li>
+        <li><a href="games/bitlife-life-simulator/play.html">Bit Life</a></li>
         <li><a href="games/fearthespotlight/index.html">Fear the Spotlight</a></li>
 
         <li><a href="games/Slope-Game-main/Slope-Game-main/index.html">Slope</a></li>
