@@ -1,0 +1,255 @@
+/**Font import from google fonts**/
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200');
+
+
+/**body style**/
+body {
+    font-family: sans-serif,Arial,Helvetica;  
+    background: linear-gradient(-45deg, #C70039, #FF5733, #FFC300, #ff3361);
+    background-size: 400% 400%;
+    -webkit-animation: animate 15s ease infinite;
+    -moz-animation: animate 15s ease infinite;
+    animation: animate 15s ease infinite;
+}
+
+
+/**background animation**/
+@-webkit-keyframes animate {
+
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+
+}
+
+@-moz-keyframes animate {
+
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+
+}
+
+@keyframes animate {
+
+    0% {
+    background-position: 0% 50%;
+    }
+
+    50% {
+    background-position: 100% 50%;
+    }
+    
+    100% {
+    background-position: 0% 50%;
+    }
+    
+}
+
+
+/**modal style**/
+.popup {
+    width: 100%; 
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-color: rgba(0,0,0,0.6); 
+    display: none;
+    padding-top: 80px;
+    z-index: 1; 
+    position: fixed;
+  }
+  
+
+  /* Modal Content */
+  .popup-content {
+    width: 85%;
+    background-color: white;
+    margin: auto;
+    padding: 15px;
+  }
+  
+  
+/**header**/
+.navigation-menu {
+    box-shadow: 0 2px 10px rgba(0,0,0,0.35); 
+    -moz-box-shadow: 0 2px 10px rgba(0,0,0,0.35); 
+    -webkit-box-shadow: 0 2px 10px rgba(0,0,0,0.35);
+    background-color: white; 
+}
+
+
+/**heading style**/
+/**header 1 style**/
+.heading1 {
+    font: bolder 2.6em "Source Sans Pro",sans-serif,Arial,Helvetica;
+}
+
+
+/**header 2 style**/
+.heading2{
+    font: bolder 2.4em "Source Sans Pro",sans-serif,Arial,Helvetica;
+    color: #2d3c49;
+}
+
+
+/**header 3 style**/
+.heading3 {
+    font: bold 2.2em "Source Sans Pro",sans-serif,Arial,Helvetica;
+    color: #ff3361;
+}
+
+
+/**header 3 style**/
+.heading4 {
+    font: bold 1.3em "Source Sans Pro",sans-serif,Arial,Helvetica;
+    color: #C70039;
+}
+
+
+/**span style previous score**/
+.spanstyl {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+/**center alignment**/
+.align-center {
+    align-content: center;
+}
+ 
+
+/**gameboard**/
+.background {
+    width: 100%;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.50);
+    -webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.50);
+    -moz-box-shadow: 0 1px 5px rgba(0,0,0,0.50);
+    padding: 10px;
+    background-color: white;
+}
+
+
+/**cards style**/
+.cards {
+    width: 100%;
+    font-size: 2.4em;
+    color: transparent;
+    background-color: #ff3361;
+    text-align: center;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.40);
+    -webkit-box-shadow: 0 2px 10px rgba(0,0,0,0.40);
+    -moz-box-shadow: 0 2px 10px rgba(0,0,0,0.40);
+    cursor: pointer;
+    border: 10px solid white;
+}
+
+
+/**open cards style**/
+.cardsopen {
+    width: 100%;
+    transform: scale(0.8);
+    -webkit-transform: scale(0.8);
+    border: 10px solid orange;
+    font-size: 2.4em;
+    color: gold;
+    background-color: white;
+}
+
+
+/**cards matching style**/
+.maching {
+    font-size: 2.4em;
+    color: aliceblue;
+    background-color: gold;
+    border-radius: 25px;
+ }
+
+
+/**footer**/
+.bottom-navigation {
+    box-shadow: 0 2px 10px rgba(0,0,0,0.35); 
+    -moz-box-shadow: 0 2px 10px rgba(0,0,0,0.35); 
+    -webkit-box-shadow: 0 2px 10px rgba(0,0,0,0.35);
+    background-color: white; 
+}
+
+
+/**rating stars**/
+.rating {
+    color: yellow;
+}
+
+
+.norating {
+    color: black;
+}
+
+
+/**media queries **/
+@media (min-width: 300px) and (max-width: 398px) { 
+
+    .cards {
+        padding: 10px;
+        font-size: 1.1em;
+        border: 2px solid white;
+    }
+
+}
+
+
+@media (min-width: 398px) and (max-width: 478px) {
+
+    .cards {
+        padding: 15px;
+        font-size: 1.5em;
+        border: 5px solid white;
+    }
+
+}
+
+
+@media (min-width: 478px) and (max-width: 576px) {
+
+    .cards {
+        padding: 20px;
+        font-size: 1.5em;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 1000px) { 
+
+    .cards {
+        padding: 20px;
+    }
+
+}
+
+@media screen and (min-width: 1000px) {
+    
+    .cards {
+        padding: 60px;
+    }
+
+}
+

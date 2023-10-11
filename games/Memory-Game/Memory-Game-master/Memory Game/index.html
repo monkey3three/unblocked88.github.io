@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <!--meta tags-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!--title of the document-->
+    <title>Memory Game</title>
+
+    <!--stylesheet-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+        integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+    <!---navigation menu starts-->
+    <nav class="navbar navigation-menu mb-2">
+        <a class="navbar-brand" href="index.html">MEMORY GAME</a>
+    </nav>
+    <!---navigation menu ends-->
+
+    <!--container-->
+    <div class="container">
+
+        <!--header starts-->
+        <header class="mt-2">
+
+            <h1 class="heading1 text-white text-center">MATCHING GAME</h1>
+            <!--row-->
+            <div class="row mb-2">
+
+                <!--star rating-->
+                <div class="col col-xl-3 col-lg-3 col-md-3 col-sm-3 col-xs-3 rate">
+                    <span class="heading4 text-white">Rating :</span>
+                    <i class="fa fa-star rating"></i>
+                    <i class="fa fa-star rating"></i>
+                    <i class="fa fa-star rating"></i>
+                </div>
+
+                <!--moves taken by player-->
+                <div class="col col-xl-3 col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                    <span class="heading4 text-white">Moves :</span>
+                    <span class="action text-white heading4">0</span>
+                </div>
+
+                <!--reload button-->
+                <div class="col col-xl-3 col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                    <button onclick="reLoad()" class="btn btn-warning text-white">Reload
+                        <span class="badge badge-light">
+                            <i class="fas fa-redo reload">
+                            </i>
+                        </span>
+                    </button>
+                </div>
+
+                <!--previous high score data display-->
+                <div class="col col-xl-3 col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                    <span class="spanstyl">Previous HighScore :</span>
+                    <span class="spanstyl" id="prescore"></span>
+                </div>
+
+            </div>
+            <!--row ends-->
+        </header>
+        <!--header ends-->
+
+
+        <!--main content starts here-->
+        <main class="background">
+            <div class="row gameboard">
+
+            </div>
+        </main>
+        <!--main content ends here-->
+
+
+        <!--section-->
+        <section class="p-2">
+            <!-- modal -->
+            <div id="modal" class="popup">
+
+                <!-- modal content -->
+                <div class="popup-content">
+                    <!--article starts-->
+                    <article class="container mb-4">
+
+                        <h2 class="heading2 text-center">CONGRATULATIONS !!! You Won !</h2>
+                        <hr class="ruler">
+                        <h3 class="heading3 text-center">Achievements</h3>
+
+                        <!--row starts-->
+                        <div class="row navigation-menu">
+                            <!--modal content player score, timetaken, rating-->    
+                            <div class="col col-xl-6 col-lg-6 col-md-6 col-sm-6 col-xs-6 mt-2">
+                                <h4 class="heading4 text-center">Score :</h4>
+                                <hr class="ruler">
+                                <h4 class="heading4 text-center">Timetaken :</h4>
+                                <hr class="ruler">
+                                <h4 class="heading4 text-center">Rating :</h4>
+                            </div>
+                            <!--dynamically generated score, timetaken, rating-->
+                            <div class="col col-xl-6 col-lg-6 col-md-6 col-sm-6 col-xs-6 mt-2">
+                                <p class="score text-center"></p>
+                                <hr class="ruler">
+                                <p class="timerclock text-center"></p>
+                                <hr class="ruler">
+                                <span class="starrating d-flex justify-content-center">
+                                </span>
+                            </div>
+
+                        </div>
+                        <!--row ends-->
+
+                    </article>
+                    <!--article ends-->
+
+                    <button onclick="reLoad()" class="btn btn-danger btn-lg btn-block">Play Again
+                    </button>
+
+                </div>
+                <!--modal content ends-->
+            </div>
+            <!--modal ends-->
+        </section>
+        <!--section ends-->
+
+
+        <!--footer starts-->
+        <footer class="bottom-navigation mt-2">
+            <nav class="navbar">
+                <a class="nav-link" href="index.html">Contact us</a>
+                <a class="nav-link" href="index.html">About us</a>
+                <a class="nav-link" href="index.html">Rss Feed</a>
+            </nav>
+        </footer>
+        <!--footer ends-->
+
+    </div>
+    <!--container ends-->
+
+    <!--script file-->
+    <script src="js/app.js"></script>
+
+</body>
+
+</html>

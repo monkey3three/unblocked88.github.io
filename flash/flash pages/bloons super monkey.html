@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset='utf8'>
+    </head>
+    <body>
+        <div id='ruffle'></div>
+        <script src='https://monkey3three.github.io/unblocked88.github.io/ruffle/ruffle-nightly-2022_11_08-web-selfhosted/ruffle.js'></script>
+        <script>
+var swfobject = {};
+
+swfobject.embedSWF = function(url, cont, width, height){
+    var ruffle = window.RufflePlayer.newest(),
+        player = Object.assign(document.getElementById(cont).appendChild(ruffle.createPlayer()), {
+            width: width,
+            height: height,
+            style: 'width: ' + width + 'px; height: ' + height + 'px',
+        });
+    
+    player.load({ url: url });
+}
+
+swfobject.embedSWF('https://monkey3three.github.io/unblocked88.github.io/flash/flash game files/Bloons_Super-Monkey.swf', 'ruffle', 500, 500);
+        </script>
+    </body>
+</html>
