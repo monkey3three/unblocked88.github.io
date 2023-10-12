@@ -1,0 +1,7 @@
+-cp src
+-main quake.Sys
+-D analyzer-code-motion
+-D analyzer-optimize
+-dce full
+-js quake.js
+-D version=0.0.1
