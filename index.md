@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html>
 <title>monkey3three</title>
 <link rel="icon" type="image/x-icon" href="favicon.ico">
