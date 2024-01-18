@@ -1,5 +1,5 @@
 # unblocked88.github.io
-Password is 69passwords (case sensitive)
+Password is 12345
 Remember that this may change.
 ## What if this is blocked for you?
 
